@@ -206,16 +206,6 @@ jobs:
           echo "Command: './scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/bitsbb01/IPTVM3U/master/Streaming%20Service%20Network/veely.tv/veely.tv.m3u" "${M3U8_STATIC_DIR}" "veely.m3u8"'"
           ./scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/bitsbb01/IPTVM3U/master/Streaming%20Service%20Network/veely.tv/veely.tv.m3u" "${M3U8_STATIC_DIR}" "veely.m3u8"
           
-          echo "Command: './scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/WJS1978/IPTV/main/iptv.m3u" "${M3U8_STATIC_DIR}" "iptvlist1.m3u8"'"
-          ./scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/WJS1978/IPTV/main/iptv.m3u" "${M3U8_STATIC_DIR}" "iptvlist1.m3u8"
-          
-          
-          echo "Command: './scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/nimadez/playlists/main/index.m3u" "${M3U8_STATIC_DIR}" "iptvlist2.m3u8"'"
-          ./scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/nimadez/playlists/main/index.m3u" "${M3U8_STATIC_DIR}" "iptvlist2.m3u8"
-          
-          
-          
-          
       - name: Match EPG IDs to Static Files
         run: |
           echo "Command: './scripts/match_epgid_to_names.sh "${M3U8_STATIC_DIR}" "${M3U8_STATIC_DIR}"'"
