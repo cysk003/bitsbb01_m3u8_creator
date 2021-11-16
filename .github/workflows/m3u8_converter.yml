@@ -102,6 +102,21 @@ jobs:
       - name: Get other m3u8s to add
         run: |
 
+          echo "Command: './scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Dash%20Radio.m3u" "${M3U8_STATIC_DIR}" "Dash_Radio.m3u8"'"
+          ./scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Dash%20Radio.m3u" "${M3U8_STATIC_DIR}" "Dash_Radio.m3u8"
+          
+          echo "Command: './scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/0nradio.com.m3u" "${M3U8_STATIC_DIR}" "On_Radio.m3u8"'"
+          ./scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/0nradio.com.m3u" "${M3U8_STATIC_DIR}" "On_Radio.m3u8"
+          
+          echo "Command: './scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/GotRadio.m3u" "${M3U8_STATIC_DIR}" "Got_Radio.m3u8"'"
+          ./scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/GotRadio.m3u" "${M3U8_STATIC_DIR}" "Got_Radio.m3u8"
+          
+          echo "Command: './scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/nezbednik/5-Minute-IPTV/master/playlist.m3u8" "${M3U8_STATIC_DIR}" "5mintv.m3u8"'"
+          ./scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/nezbednik/5-Minute-IPTV/master/playlist.m3u8" "${M3U8_STATIC_DIR}" "5mintv.m3u8"
+          
+          echo "Command: './scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/youtube.m3u" "${M3U8_STATIC_DIR}" "YTtv.m3u8"'"
+          ./scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/bitsbb01/YT_to_m3u/main/youtube.m3u" "${M3U8_STATIC_DIR}" "YTtv.m3u8"
+          
           echo "Command: './scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/allsprk.tv/allsprk.tv.m3u" "${M3U8_STATIC_DIR}" "allsprk.m3u8"'"
           ./scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/allsprk.tv/allsprk.tv.m3u" "${M3U8_STATIC_DIR}" "allsprk.m3u8"
                     
@@ -116,9 +131,6 @@ jobs:
           
           echo "Command: './scripts/download_file_allow_failiure.sh "https://www.apsattv.com/bumblebeetv.m3u" "${M3U8_STATIC_DIR}" "bumblebee.m3u8"'"
           ./scripts/download_file_allow_failiure.sh "https://www.apsattv.com/bumblebeetv.m3u" "${M3U8_STATIC_DIR}" "bumblebee.m3u8"		  
-          
-          echo "Command: './scripts/download_file_allow_failiure.sh "https://www.apsattv.com/bumblebeetv.m3u" "${M3U8_STATIC_DIR}" "bumblebee.m3u8"'"
-          ./scripts/download_file_allow_failiure.sh "https://www.apsattv.com/bumblebeetv.m3u" "${M3U8_STATIC_DIR}" "bumblebee.m3u8"
           
           echo "Command: './scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/TVPRO20/TV2/master/TV21.m3u" "${M3U8_STATIC_DIR}" "Cablevision.m3u8"'"
           ./scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/TVPRO20/TV2/master/TV21.m3u" "${M3U8_STATIC_DIR}" "Cablevision.m3u8"
@@ -149,6 +161,9 @@ jobs:
           
           echo "Command: './scripts/download_file_allow_failiure.sh "https://www.apsattv.com/herogotv.m3u" "${M3U8_STATIC_DIR}" "HerogoTV.m3u8"'"
           ./scripts/download_file_allow_failiure.sh "https://www.apsattv.com/herogotv.m3u" "${M3U8_STATIC_DIR}" "HerogoTV.m3u8"
+          
+          echo "Command: './scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/IP-GO.m3u" "${M3U8_STATIC_DIR}" "ipgoTV.m3u8"'"
+          ./scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/IP-GO.m3u" "${M3U8_STATIC_DIR}" "ipgoTV.m3u8"
           
           echo "Command: './scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/Jungo%2BTV/Jungo%2BTV.m3u" "${M3U8_STATIC_DIR}" "Jungo.m3u8"'"
           ./scripts/download_file_allow_failiure.sh "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/Jungo%2BTV/Jungo%2BTV.m3u" "${M3U8_STATIC_DIR}" "Jungo.m3u8"
