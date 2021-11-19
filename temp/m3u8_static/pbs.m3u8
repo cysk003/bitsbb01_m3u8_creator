@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PBS/epg.xml.gz"
-#EXTINF:-1 tvg-id="KUON" tvg-logo="https://image.pbs.org/stations/kuon-color-single-brand-logo-XlBmNqx.png",Nebraska Public Media
-https://kuondt.lls.pbs.org/out/v1/8647e38af690461cbcc29c86b94f5b85/index.m3u8
 #EXTINF:-1 tvg-id="WNJT" tvg-logo="https://image.pbs.org/stations/wnjt-color-cobranded-logo-3RDiOdA.png",NJ PBS
 https://wnjtdt.lls.pbs.org/out/v1/d2c1d656b43c4cf488873f1c3f3644b1/index.m3u8
+#EXTINF:-1 tvg-id="KUON" tvg-logo="https://image.pbs.org/stations/kuon-color-single-brand-logo-XlBmNqx.png",Nebraska Public Media
+https://kuondt.lls.pbs.org/out/v1/8647e38af690461cbcc29c86b94f5b85/index.m3u8
 #EXTINF:-1 tvg-id="WGTV" tvg-logo="https://image.pbs.org/stations/wgtv-color-single-brand-logo-IeTkPR9.png",Georgia Public Broadcasting
 https://wgtvdt.lls.pbs.org/out/v1/1fe7fe6e36524881bd999a7003394ec7/index.m3u8
 #EXTINF:-1 tvg-id="WGBH" tvg-logo="https://image.pbs.org/stations/wgbh-color-single-brand-logo-bm3AAGH.png",GBH
