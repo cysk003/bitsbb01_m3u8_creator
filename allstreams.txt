@@ -40,16 +40,20 @@
 ./m3u8/australia.m3u8
 ./m3u8/austria.m3u8
 ./m3u8/belgium.m3u8
+./m3u8/brazil.m3u8
 ./m3u8/bumblebee.m3u8
 ./m3u8/canada.m3u8
 ./m3u8/china.m3u8
+./m3u8/czech republic.m3u8
 ./m3u8/dailymotion-US.m3u8
+./m3u8/denmark.m3u8
 ./m3u8/europe.m3u8
 ./m3u8/ex yugoslavia.m3u8
 ./m3u8/france.m3u8
 ./m3u8/free2view.m3u8
 ./m3u8/galxytv.m3u8
 ./m3u8/germany.m3u8
+./m3u8/greece.m3u8
 ./m3u8/hong kong.m3u8
 ./m3u8/india.m3u8
 ./m3u8/indonesia.m3u8
@@ -62,12 +66,14 @@
 ./m3u8/klowdtv.m3u8
 ./m3u8/latin america.m3u8
 ./m3u8/malaysia.m3u8
+./m3u8/netherlands.m3u8
 ./m3u8/new zealand.m3u8
 ./m3u8/north america.m3u8
 ./m3u8/oceania.m3u8
 ./m3u8/pbs.m3u8
 ./m3u8/plex.m3u8
 ./m3u8/pluto.m3u8
+./m3u8/romania.m3u8
 ./m3u8/russian federation.m3u8
 ./m3u8/singapore.m3u8
 ./m3u8/smash_plus.m3u8
