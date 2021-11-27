@@ -1,0 +1,65 @@
+#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:0 tvg-id="SkySportsPremierLeague.uk" group-title="Sport",SKY SPORTS PREMIER LEAGUE HD [100]
+http://xtrastv.club:8080/salahdin/1EqJY6XrgL/3624?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsRacing.uk" group-title="Sport",SKY SPORTS RACING [100]
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/343?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="eirSport2.uk" group-title="Sport",Eir Sport 2 [100]
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/293?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FreeSports(src01).uk" group-title="Sport",FreeSports [100]
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/301?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="GINXeSportsTV(src01).uk" group-title="Sport",Ginx eSports TV [100]
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/303?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",PREMIER SPORTS 1 [100]
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/350?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="PremierSports2.uk" group-title="Sport",PREMIER SPORTS 2 [100]
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/353?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsArena.uk" group-title="Sport",SKY SPORTS ARENA [100]
+http://xtrastv.club:8080/salahdin/1EqJY6XrgL/3632?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="Sport",BT SPORT 1 [100]
+http://xtrastv.club:8080/salahdin/1EqJY6XrgL/3622?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="Sport",BT SPORT 1 [100]
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/235?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="Sport",BT SPORT 2 [100]
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/237?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="Sport",BT SPORT 2 FHD [100]
+http://xtrastv.club:8080/salahdin/1EqJY6XrgL/3620?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="Sport",BT SPORT 3 [100]
+http://xtrastv.club:8080/salahdin/1EqJY6XrgL/3621?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="Sport",BT SPORT 3 [100]
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/239?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Sport",BT SPORT ESPN [100]
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/241?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsArena.uk" group-title="Sport",SKY SPORTS ARENA [100]
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/327?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsBoxOffice(src02).uk" group-title="Sport",SKY SPORTS BOX OFFICE [100]
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/329?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsCricket.uk" group-title="Sport",SKY SPORTS CRICKET [100]
+http://xtrastv.club:8080/salahdin/1EqJY6XrgL/3629?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsCricket.uk" group-title="Sport",SKY SPORTS CRICKET [100]
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/331?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsF1.uk" group-title="Sport",SKY SPORTS F1 [100]
+http://xtrastv.club:8080/salahdin/1EqJY6XrgL/3628?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsF1.uk" group-title="Sport",SKY SPORTS F1 [100]
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/39081?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsFootball.uk" group-title="Sport",SKY SPORTS FOOTBALL [100]
+http://xtrastv.club:8080/salahdin/1EqJY6XrgL/3626?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsFootball.uk" group-title="Sport",SKY SPORTS FOOTBALL [100]
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/335?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsGolf.uk" group-title="Sport",SKY SPORTS GOLF [100]
+http://xtrastv.club:8080/salahdin/1EqJY6XrgL/3633?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsGolf.uk" group-title="Sport",SKY SPORTS GOLF [100]
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/337?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsMainEvent.uk" group-title="Sport",SKY SPORTS MAIN EVENT [100]
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/339?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsMix.uk" group-title="Sport",SKY SPORTS MIX [100]
+http://xtrastv.club:8080/salahdin/1EqJY6XrgL/3627?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsMix.uk" group-title="Sport",SKY SPORTS MIX [100]
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/341?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="News;Sport",SKY SPORTS NEWS [100]
+http://xtrastv.club:8080/salahdin/1EqJY6XrgL/3634?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SKY SPORTS NFL [100]
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/325?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsPremierLeague.uk" group-title="Sport",SKY SPORTS PREMIER LEAGUE [100]
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/356?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="eirSport2.uk" group-title="Sport",eirsport2 [100]
+http://xtrastv.club:8080/salahdin/1EqJY6XrgL/3643?checkedby:iptvcat.com
