@@ -1,0 +1,7 @@
+#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:0 tvg-id="" group-title="Sport",DIGISPORT 4 [100]
+http://xtrastv.club:8080/salahdin/1EqJY6XrgL/5801?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Extreme Sport [100]
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/42777?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",TELEKOM SPORT 1 [100]
+http://xtrastv.club:8080/salahdin/1EqJY6XrgL/5559?checkedby:iptvcat.com
