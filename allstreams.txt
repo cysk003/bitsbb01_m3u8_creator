@@ -34,6 +34,7 @@
 ./m3u8/WatchYourTV.m3u8
 ./m3u8/YTtv.m3u8
 ./m3u8/africa.m3u8
+./m3u8/albania.m3u8
 ./m3u8/allsprk.m3u8
 ./m3u8/arab countries.m3u8
 ./m3u8/asia.m3u8
@@ -41,6 +42,7 @@
 ./m3u8/austria.m3u8
 ./m3u8/belgium.m3u8
 ./m3u8/brazil.m3u8
+./m3u8/bulgaria.m3u8
 ./m3u8/bumblebee.m3u8
 ./m3u8/canada.m3u8
 ./m3u8/china.m3u8
@@ -55,6 +57,7 @@
 ./m3u8/germany.m3u8
 ./m3u8/greece.m3u8
 ./m3u8/hong kong.m3u8
+./m3u8/hungary.m3u8
 ./m3u8/india.m3u8
 ./m3u8/indonesia.m3u8
 ./m3u8/ipgoTV.m3u8
@@ -73,6 +76,8 @@
 ./m3u8/pbs.m3u8
 ./m3u8/plex.m3u8
 ./m3u8/pluto.m3u8
+./m3u8/poland.m3u8
+./m3u8/portugal.m3u8
 ./m3u8/romania.m3u8
 ./m3u8/russian federation.m3u8
 ./m3u8/singapore.m3u8
@@ -80,8 +85,10 @@
 ./m3u8/south america.m3u8
 ./m3u8/south korea.m3u8
 ./m3u8/spain.m3u8
+./m3u8/sweden.m3u8
 ./m3u8/switzerland.m3u8
 ./m3u8/tubi.m3u8
+./m3u8/turkey.m3u8
 ./m3u8/undefined.m3u8
 ./m3u8/united kingdom.m3u8
 ./m3u8/united states of america.m3u8
