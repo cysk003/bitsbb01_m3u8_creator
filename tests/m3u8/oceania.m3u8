@@ -1,0 +1,111 @@
+#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:0 tvg-id="" group-title="",7 FLIX HD [73][offline]
+http://new-pro.tv:8080/golden_eagle/khalid/175190?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",ABC AU [93]
+https://c.mjh.nz/101002210221/?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",ABC KIDS HD [73][offline]
+http://new-pro.tv:8080/golden_eagle/khalid/86742?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",ABC Kids [97]
+https://c.mjh.nz/101002210222/?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",ABC Me [95]
+https://c.mjh.nz/101002210224/?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",ABC NEWS 24 HD [70][offline]
+http://new-pro.tv:8080/golden_eagle/khalid/86744?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",ABC One HD [70][offline]
+http://new-pro.tv:8080/golden_eagle/khalid/86745?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Ausbiz TV [99]
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Australia Channel [100]
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",Bloomberg Australia [100]
+https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-440-1_live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",Bloomberg Australia [71][offline]
+http://new-pro.tv:8080/golden_eagle/khalid/86768?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",Bloomberg TV Australia [100]
+https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Channel One HD [70][offline]
+http://new-pro.tv:8080/golden_eagle/khalid/86746?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ESPN [88]
+http://comet.watch:8880/play/BGsTumtQz_5ppESq8C7C6yGhWs5Bex42iB8B4RLIa9hjFPFJR8GQFehAv0Acv3K5KJf3X9RkNPNC2UE6Hq749g/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ESPN 1 [71][offline]
+http://new-pro.tv:8080/golden_eagle/khalid/86772?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Expo Channel [100]
+http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Expo Channel [98]
+https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",FOX SPORTS 506 HD [77][offline]
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/46541.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News;Sport",FOX SPORTS NEWS [76][offline]
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/46540.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News;Sport",FOX SPORTS NEWS [91]
+http://comet.watch:8880/play/BGsTumtQz_5ppESq8C7C6yGhWs5Bex42iB8B4RLIa9hjFPFJR8GQFehAv0Acv3K5BOqPHHnbE3AV0aXZGGXuhQ/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Fox Sports 501 FHD [82][offline]
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48272.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Fox Sports 502 FHD [78][offline]
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48271.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Fox Sports 503 FHD [70][offline]
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48270.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Fox Sports 504 FHD [74][offline]
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48269.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Fox Sports 505 FHD [73][offline]
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48268.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Fox Sports 506 FHD [78][offline]
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48267.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Fox Sports 507 FHD [79][offline]
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48266.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News;Sport",Fox Sports News [100]
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News;Sport",Fox Sports News FHD [77][offline]
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/48265.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",NINE GEM Adelaide HD [73][offline]
+http://new-pro.tv:8080/golden_eagle/khalid/86763?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Outdoor Channel HD [73][offline]
+http://new-pro.tv:8080/golden_eagle/khalid/86769?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",S NEWS EXTRA 3 [70][offline]
+http://new-pro.tv:8080/golden_eagle/khalid/175192?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Movies",SBS World Movies [71][offline]
+http://new-pro.tv:8080/golden_eagle/khalid/86759?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",Sky News Extra 1 [100]
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",Sky News Extra 2 [99]
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",Sky News Extra 3 [100]
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TVSN [100]
+https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",ausbiz TV (720p) [Geo-blocked] [100]
+https://i.mjh.nz/au/Sydney/tv.7ausbiz.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",beIN Sports 1 HD [100]
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1730.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",beIN Sports 2 HD [100]
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1731.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",beIN Sports 3 HD [100]
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1732.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Fiji TV, FJ | Fiji TV [99]
+https://api.new.livestream.com/accounts/19514369/events/fijitvstream/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Fiji One [99]
+http://api.new.livestream.com/accounts/19514369/events/6947821/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Fiji One [98]
+https://api.new.livestream.com/accounts/19514369/events/6947821/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Firstlight [99]
+https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Kordia TV [99]
+https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Māori Television [100]
+http://i.mjh.nz/nz/tv.13.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Māori Television [100]
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Māori Television [100]
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Māori Television [100]
+https://i.mjh.nz/nz/tv.13.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",NZ | Te Reo, Te Reo [100]
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TVNZ Shopping, TVSN Shopping [100]
+https://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TVSN Shopping [100]
+http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Te Reo [100]
+http://i.mjh.nz/nz/tv.20.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Te Reo [99]
+https://i.mjh.nz/nz/tv.20.m3u8?checkedby:iptvcat.com
