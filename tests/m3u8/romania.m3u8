@@ -1,0 +1,9 @@
+#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:0 tvg-id="" group-title="Sport",Telekom Sport 2 HD [100]
+http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118838?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",DIGI SPORTS 1 [100]
+http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118831?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Digi Sport 1 [100]
+http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/125008?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",LOOK SPORT [100]
+http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118835?checkedby:iptvcat.com
