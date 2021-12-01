@@ -1,0 +1,57 @@
+#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:0 tvg-id="BoxHits.uk" group-title="Music",Box Hits HD [100]
+http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/119223?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",DW English [100]
+http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/119208?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FreeSports(src01).uk" group-title="Sport",Free Sports [100]
+http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/119255?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="eirSport1.uk" group-title="Sport",Eir Sport 1 [100]
+http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/119253?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="eirSport2.uk" group-title="Sport",Eir Sport 2 [100]
+http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/119254?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",BT Sport Extra [100]
+http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123042?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BTSportExtra3.uk" group-title="Sport",BT Sport Extra 3 [100]
+http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123046?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BTSportExtra4.uk" group-title="Sport",BT Sport Extra 4 [100]
+http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123047?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",BT Sports 1 HD [100]
+http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123034?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MTV.uk" group-title="Music",MTV [100]
+http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/119204?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkyAtlantic.uk" group-title="",SKY Atlantic HD [100]
+http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/119232?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsAction.uk" group-title="Sport",SKY SPORTS ACTION [100]
+http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/119233?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsF1.uk" group-title="Sport",SKY SPORTS F1 HD [100]
+http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/119235?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsMainEvent.uk" group-title="Sport",SKY SPORTS MAIN EVENT [100]
+http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/119238?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsRacing.uk" group-title="Sport",SKY SPORTS RACING [100]
+http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118881?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",STARZ TV [100]
+http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/119216?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkyCinemaGreats.uk" group-title="Movies",Sky Cinema Greats HD [100]
+http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/119121?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Sky Sport Golf [100]
+http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123020?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Sky Sport NHL HD [100]
+http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123026?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Sky Sport PL [100]
+http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123021?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Star Bharat UK [100]
+http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/119220?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Star Gold UK [100]
+http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/119194?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Viceland(src02).uk" group-title="",Viceland [100]
+http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/119224?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(UK) Main;News",BBC Two Scotland [100]
+http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123000?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BBC1(src01).uk" group-title="(UK) Main;News",BBC 1 [100]
+http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/122994?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BBC2(England).uk" group-title="(UK) Main;News",BBC 2 [100]
+http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/122995?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(UK) Main;Kids;News",BBC CBeebies HD [100]
+http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/119227?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="eirSport1.uk" group-title="Sport",Eir Sport 1 [100]
+http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123051?checkedby:iptvcat.com
