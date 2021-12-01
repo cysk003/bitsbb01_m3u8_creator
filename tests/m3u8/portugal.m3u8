@@ -1,0 +1,17 @@
+#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT TV 4 FHD [100]
+http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123998?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT TV 4 HD [100]
+http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118817?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT TV 5 FHD [100]
+http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123999?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT TV 1 FHD [100]
+http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123995?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT TV 2 FHD [100]
+http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123996?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Sport TV+ [100]
+http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123994?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Sport TV5 [100]
+http://privatestars.ddns.net:25461/PietroParigi/wUWS0RqEJZ/123993?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Sporting TV [100]
+http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118812?checkedby:iptvcat.com
