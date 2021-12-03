@@ -1,0 +1,69 @@
+#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:0 tvg-id="" group-title="",ABC AU [93]
+https://c.mjh.nz/101002210221/?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",ABC Kids [97]
+https://c.mjh.nz/101002210222/?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",ABC Me [95]
+https://c.mjh.nz/101002210224/?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Ausbiz TV [99]
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Australia Channel [100]
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",Bloomberg Australia [100]
+https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-440-1_live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",Bloomberg TV Australia [100]
+https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ESPN [86][offline]
+http://comet.watch:8880/play/BGsTumtQz_5ppESq8C7C6yGhWs5Bex42iB8B4RLIa9hjFPFJR8GQFehAv0Acv3K5KJf3X9RkNPNC2UE6Hq749g/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Expo Channel [100]
+http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Expo Channel [98]
+https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News;Sport",FOX SPORTS NEWS [88][offline]
+http://comet.watch:8880/play/BGsTumtQz_5ppESq8C7C6yGhWs5Bex42iB8B4RLIa9hjFPFJR8GQFehAv0Acv3K5BOqPHHnbE3AV0aXZGGXuhQ/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News;Sport",Fox Sports News [100]
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",Sky News Extra 1 [100]
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",Sky News Extra 2 [99]
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",Sky News Extra 3 [100]
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TVSN [100]
+https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",ausbiz TV (720p) [Geo-blocked] [100]
+https://i.mjh.nz/au/Sydney/tv.7ausbiz.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",beIN Sports 1 HD [100]
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1730.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",beIN Sports 2 HD [100]
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1731.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",beIN Sports 3 HD [100]
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1732.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Fiji TV, FJ | Fiji TV [99]
+https://api.new.livestream.com/accounts/19514369/events/fijitvstream/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Fiji One [99]
+http://api.new.livestream.com/accounts/19514369/events/6947821/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Fiji One [98]
+https://api.new.livestream.com/accounts/19514369/events/6947821/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Firstlight [99]
+https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Kordia TV [99]
+https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Māori Television [100]
+http://i.mjh.nz/nz/tv.13.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Māori Television [100]
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Māori Television [100]
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Māori Television [100]
+https://i.mjh.nz/nz/tv.13.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",NZ | Te Reo, Te Reo [100]
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TVNZ Shopping, TVSN Shopping [100]
+https://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TVSN Shopping [100]
+http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Te Reo [100]
+http://i.mjh.nz/nz/tv.20.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Te Reo [99]
+https://i.mjh.nz/nz/tv.20.m3u8?checkedby:iptvcat.com
