@@ -72,6 +72,7 @@
 ./m3u8/netherlands.m3u8
 ./m3u8/new zealand.m3u8
 ./m3u8/north america.m3u8
+./m3u8/norway.m3u8
 ./m3u8/oceania.m3u8
 ./m3u8/pbs.m3u8
 ./m3u8/plex.m3u8
