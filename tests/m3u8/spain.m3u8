@@ -1,7 +1,0 @@
-#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:0 tvg-id="" group-title="Sport",Eurosport 2 FHD [100]
-http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/2085?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="" group-title="",MOVISTAR DEPORTES [100]
-http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/1808?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="" group-title="Sport",MOVISTAR GOLF [100]
-http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/1811?checkedby:iptvcat.com
