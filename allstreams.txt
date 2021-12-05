@@ -81,6 +81,7 @@
 ./m3u8/portugal.m3u8
 ./m3u8/romania.m3u8
 ./m3u8/russian federation.m3u8
+./m3u8/scandinavia.m3u8
 ./m3u8/singapore.m3u8
 ./m3u8/smash_plus.m3u8
 ./m3u8/south america.m3u8
