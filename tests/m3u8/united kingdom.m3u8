@@ -1,0 +1,63 @@
+#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:0 tvg-id="" group-title="Music",VH1 Classic [100]
+http://iptv.ndasat.com:88/930874714182491/930874714182491/2117?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="E4.uk" group-title="",E4 [100]
+http://iptv.ndasat.com:88/930874714182491/930874714182491/715?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="GOLD.uk" group-title="",Gold [100]
+http://iptv.ndasat.com:88/930874714182491/930874714182491/687?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Good Food [100]
+http://iptv.ndasat.com:88/930874714182491/930874714182491/3595?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",History Channel UK [100]
+http://iptv.ndasat.com:88/930874714182491/930874714182491/685?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="PlutoTVHome.uk" group-title="",Home [100]
+http://iptv.ndasat.com:88/930874714182491/930874714182491/673?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ITV1(Yorkshire).uk" group-title="(UK) Main",ITV 1 HD [100]
+http://iptv.ndasat.com:88/930874714182491/930874714182491/682?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ITV2.uk" group-title="(UK) Main",ITV 2 HD [100]
+http://iptv.ndasat.com:88/930874714182491/930874714182491/681?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ITV3.uk" group-title="(UK) Main",ITV 3 HD [100]
+http://iptv.ndasat.com:88/930874714182491/930874714182491/680?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ITV4.uk" group-title="(UK) Main",ITV 4 HD [100]
+http://iptv.ndasat.com:88/930874714182491/930874714182491/679?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Liverpool [100]
+http://iptv.ndasat.com:88/930874714182491/930874714182491/676?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MTVBase.uk" group-title="Music",MTV Base [100]
+http://iptv.ndasat.com:88/930874714182491/930874714182491/2119?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Food Network uk [100]
+http://iptv.ndasat.com:88/930874714182491/930874714182491/688?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Fox_UK [100]
+http://iptv.ndasat.com:88/930874714182491/930874714182491/3592?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Drama UK [100]
+http://iptv.ndasat.com:88/930874714182491/930874714182491/3598?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Music",MTV Dance [100]
+http://iptv.ndasat.com:88/930874714182491/930874714182491/2120?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MTVHits.uk" group-title="Music",MTV Hits [100]
+http://iptv.ndasat.com:88/930874714182491/930874714182491/2118?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Music",MTV Rock [100]
+http://iptv.ndasat.com:88/930874714182491/930874714182491/2121?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Music",MTV_Music UK [100]
+http://iptv.ndasat.com:88/930874714182491/930874714182491/672?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="More4(src02).uk" group-title="",More4 [100]
+http://iptv.ndasat.com:88/930874714182491/930874714182491/674?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Nat Geo Channel [100]
+http://iptv.ndasat.com:88/930874714182491/930874714182491/669?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",National Geography Wild [100]
+http://iptv.ndasat.com:88/930874714182491/930874714182491/667?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsGolf.uk" group-title="Sport",Sky Sports Golf [100]
+http://iptv.ndasat.com:88/930874714182491/930874714182491/4?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsMainEvent.uk" group-title="Sport",Sky Sports Main Event [100]
+http://iptv.ndasat.com:88/930874714182491/930874714182491/1?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="News;Sport",Sky Sports News [100]
+http://iptv.ndasat.com:88/930874714182491/930874714182491/6?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsPremierLeague.uk" group-title="Sport",Sky Sports Premier league [100]
+http://iptv.ndasat.com:88/930874714182491/930874714182491/5?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Sky Thriller [100]
+http://iptv.ndasat.com:88/930874714182491/930874714182491/141?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkyNews.uk" group-title="News",SkyNews [100]
+http://iptv.ndasat.com:88/930874714182491/930874714182491/654?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Sky_Living UK [100]
+http://iptv.ndasat.com:88/930874714182491/930874714182491/675?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Sky_Two [100]
+http://iptv.ndasat.com:88/930874714182491/930874714182491/3590?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",SyFy UK [100]
+http://iptv.ndasat.com:88/930874714182491/930874714182491/651?checkedby:iptvcat.com
