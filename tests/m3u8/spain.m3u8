@@ -1,7 +1,0 @@
-#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:0 tvg-id="" group-title="",BABY TV ESP [100]
-http://iptv.ndasat.com:88/930874714182491/930874714182491/2718?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="" group-title="",AXN es [100]
-http://iptv.ndasat.com:88/930874714182491/930874714182491/1601?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="" group-title="",Antena 3 [100]
-http://iptv.ndasat.com:88/930874714182491/930874714182491/971?checkedby:iptvcat.com
