@@ -40,6 +40,7 @@
 ./m3u8/asia.m3u8
 ./m3u8/australia.m3u8
 ./m3u8/austria.m3u8
+./m3u8/azerbaijan.m3u8
 ./m3u8/belgium.m3u8
 ./m3u8/brazil.m3u8
 ./m3u8/bulgaria.m3u8
