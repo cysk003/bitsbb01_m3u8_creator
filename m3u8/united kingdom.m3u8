@@ -1,0 +1,5 @@
+#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:0 tvg-id="SkySportsGolf.uk" group-title="Sport",SKY SPORTS Golf HD [100]
+http://linkme.team:80/11042021/11042021/378341?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="News;Sport",SKY SPORTS NEWS [100]
+http://linkme.team:80/11042021/11042021/378344?checkedby:iptvcat.com
