@@ -1,0 +1,581 @@
+#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:0 tvg-id="" group-title="",5AAB TV [99]
+http://158.69.124.9:1935/5aabtv/5aabtv/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",5AAB TV [99]
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",A&E [96]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64014.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",A&E HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/1365.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",ABC HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/112.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ABCSpark(English).ca" group-title="",ABC SPARK HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/64.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ABCSpark(English).ca" group-title="",ABC Spark [96]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/62985.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="AMC(English).ca" group-title="",AMC [92]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14660.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="AMC(English).ca" group-title="",AMC HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/65.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="AMItele(src01).ca" group-title="",AMI-Tele [70]
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR6u_WN5RKnPNpg8ZYj8X6C8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="AnimalPlanet(English).ca" group-title="",ANIMAL PLANET HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/34742.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ADDIKTV(French).ca" group-title="",Addik TV [80]
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRztL5QmTQnyC5bQOhhyJFTE?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ADDIKTV(French).ca" group-title="",AddikTV HD (FR) [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/92.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Amazing Discoveries TV [99]
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Amazing Discoveries TV, CA | Amazing Discoveries TV [100]
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Ami-Télé HD (FR) [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/81.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="AnimalPlanet(English).ca" group-title="",Animal Planet [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14661.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(UK) Main;News",BBC Canada HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/87.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BBCEarth(English).ca" group-title="(UK) Main;News",BBC Earth [98]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64017.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(UK) Main;News",BBC Toronto Gaunda Punjab [99]
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BBCWorldNews(NorthAmerica)(English).ca" group-title="(UK) Main;News",BBC WORLD NEWS [98]
+http://linea.cc:8000/test123/test123/51665.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BBCWorldNews(NorthAmerica)(English).ca" group-title="(UK) Main;News",BBC World News [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64018.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BNNBloomberg(English).ca" group-title="News",BNN Bloomberg [94]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64020.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="beINSports(English).ca" group-title="Sport",Bein Sports HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/128.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Bravo TV HD [100]
+http://odenfull.co:2086/Mario0521/wBciOGSOgS/81117?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA | EMCI TV, EMCI TV [100]
+https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA | EWTN Canada, EWTN Canada [100]
+https://dyo5cp96eopax.cloudfront.net/p/CANE_1920x1080_4000k.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA | Global British Columbia, Global British Columbia [100]
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",CA | Global News, Global News [100]
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA | Global Toronto, Global Toronto [100]
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA | IIPC TV, IIPC TV [100]
+https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA | Legislative Assembly of Ontario, Legislative Assembly of Ontario [99]
+http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA | QVTV, QVTV [100]
+https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA | The Shopping Channel, The Shopping Channel [100]
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CASA(src01).ca" group-title="",CASA [87]
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR5xlhqHcB7n-4QE23u3xC5w?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CASA(src01).ca" group-title="",CASA HD (FR) [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/95.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CBC Central HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/113.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CBC Eastern HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/114.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CBC(Vancouver)(CBUT)(English).ca" group-title="",CBC HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/67.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CBC Montreal HD [83]
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/150459?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",CBC NEWS (Canada) [98]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14684.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CBCOttawa(English).ca" group-title="",CBC Ottawa HD [100]
+http://odenfull.co:2086/Mario0521/wBciOGSOgS/81123?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CBC Toronto [97]
+http://linea.cc:8000/test123/test123/51666.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CHCH(English).ca" group-title="",CHCH [98]
+http://linea.cc:8000/test123/test123/51682.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CHCH(English).ca" group-title="",CHCH HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/37846.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CityTv(English).ca" group-title="",CITY TV [96]
+http://linea.cc:8000/test123/test123/51667.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CMT(English).ca" group-title="",CMT [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14689.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CNN(English).ca" group-title="News",CNN [96]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64025.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CNNInternational(English).ca" group-title="News",CNN International [96]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64026.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CP 24 [99]
+http://linea.cc:8000/test123/test123/51670.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CP24 HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/108.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CPAC [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64030.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CPAC HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/123.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CPAC HD (FR) [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/124.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CRIME & INVESTIGATION [97]
+http://linea.cc:8000/test123/test123/51671.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CTV [99]
+https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CTV [98]
+http://linea.cc:8000/test123/test123/51672.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CTV (KITCHENER) [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/116.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CTVCalgary(English).ca" group-title="",CTV CALGARY HD [100]
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/150505?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Comedy",CTV COMEDY [98]
+http://linea.cc:8000/test123/test123/51668.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CTVCOMEDYCHANNEL(West)(English).ca" group-title="Comedy",CTV Comedy Channel [98]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/27236.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Comedy",CTV Comedy East HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/62.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CTV Drama [98]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/27235.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CTV Drama HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/78.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CTV HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/68.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CTV Life [96]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64037.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CTVLIFECHANNEL(English).ca" group-title="",CTV Life Channel HD [90]
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/212136?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CTV Montreal SD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/35759.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CTVNewsChannel(English).ca" group-title="News",CTV News Channel [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64039.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CTV OTTAWA HD [79]
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/150516?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CTV SCI-FI [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/27234.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CTVToronto(English).ca" group-title="",CTV TORONTO [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/117.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CTV Western HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/118.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CTV sci-fi HD [79]
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/150517?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Canada One [99]
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CanalD(src01).ca" group-title="",Canal D [70]
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR6j7XfJJO0YTX0wFbY-0RXU?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CanalD(src01).ca" group-title="",Canal D HD (FR) [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/93.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Canal Savoir HD (FR) [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/94.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Treehouse(English).ca" group-title="",TREEHOUSE HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/34743.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TSC HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/74.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TSN 1 [97]
+http://linea.cc:8000/test123/test123/51686.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TSN 1 [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/5102.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TSN 1 HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/133.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TSN24K(English).ca" group-title="",TSN 2 [99]
+http://linea.cc:8000/test123/test123/51687.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TSN24K(English).ca" group-title="",TSN 2 [98]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/5103.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TSN24K(English).ca" group-title="",TSN 2 HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/134.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TSN24K(English).ca" group-title="",TSN 2 HD [100]
+http://odenfull.co:2086/Mario0521/wBciOGSOgS/81154?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TSN 3 [98]
+http://linea.cc:8000/test123/test123/51688.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TSN 3 [98]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/5104.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TSN 3 FHD [100]
+http://odenfull.co:2086/Mario0521/wBciOGSOgS/81155?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TSN 3 HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/135.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TSN 4 [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/5105.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TSN 4 HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/136.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TSN 5 [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/5106.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TSN 5 [97]
+http://linea.cc:8000/test123/test123/51690.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TSN 5 HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/137.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TSN 5 HD [100]
+http://odenfull.co:2086/Mario0521/wBciOGSOgS/81157?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TV5 Quebec [100]
+http://odenfull.co:2086/Mario0521/wBciOGSOgS/81174?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TV5 Québec HD (FR) [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/120.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TVA Hull [85]
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR3wxpsm3mnmwaghNdzHf8ZE?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TVASports(src01).ca" group-title="Sport",TVA Sports [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64090.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TVASports(src01).ca" group-title="Sport",TVA Sports [76]
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRxVG0ft9fkexvIR_cGb1k6Q?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",TVA Sports 1 FHD [93]
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/209774?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TVASports2(French).ca" group-title="Sport",TVA Sports 2 [98]
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR9e6g-i_1W9orw1-9FWLeGs?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TVASports2(French).ca" group-title="Sport",TVA Sports 2 HD (FR) [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/141.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TVASports(src01).ca" group-title="Sport",TVA Sports HD (FR) [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/140.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TVO [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64091.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TVO [97]
+http://linea.cc:8000/test123/test123/54073.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TamilVision(English).ca" group-title="",Tamil Vision TV [100]
+http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TamilVision(English).ca" group-title="",Tamil Vision TV [100]
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Teletoon(Pacific)(English).ca" group-title="",TeleToon [98]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14740.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Telemagino(French).ca" group-title="",Telemagino [84]
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR-e3uPMdqzQ98FRfY4bbfTU?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Teletoon(Pacific)(English).ca" group-title="",Teletoon HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/8134.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",The Shopping Channel [100]
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TheWeatherNetwork(English).ca" group-title="",The Weather Network HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/111.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TodaysShoppingChoice(English).ca" group-title="",Today's Shopping Choice [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64083.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Toronto 360 TV [99]
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Travel Escape [98]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64088.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Treehouse(English).ca" group-title="",Treehouse [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14748.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Treehouse(English).ca" group-title="",Treehouse [100]
+http://odenfull.co:2086/Mario0521/wBciOGSOgS/81151?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Treehouse(English).ca" group-title="",Treehouse TV HD [100]
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/150723?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Télé Québec HD (FR) [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/121.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="VRAKTV(French).ca" group-title="",VRAK TV HD (FR) [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/105.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="VisionTV(English).ca" group-title="",Vision TV [98]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14753.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="WNetwork(English).ca" group-title="",W NETWORK [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14751.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="WNetwork(English).ca" group-title="",W Network HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/110.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="WGN(Chicago)(English).ca" group-title="",WGN [92]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64095.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="WeatherNetwork(CWEA)(English).ca" group-title="",Weather Network [92]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64094.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="WILDTV(English).ca" group-title="",Wild TV [96]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64096.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="YesTV(English).ca" group-title="",YES TV [96]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14754.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="YTV(English).ca" group-title="",YTV [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64098.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="YTV(English).ca" group-title="",YTV HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/35053.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="YesTV(English).ca" group-title="",Yes TV HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/34517.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Yoopa(src01).ca" group-title="",Yoopa [74]
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR6xwvaR7kEw8Uo7g7Jqgj9w?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Yoopa(src01).ca" group-title="",Yoopa HD (FR) [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/149.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Zeste(src01).ca" group-title="",Zeste HD (FR) [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/107.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",beIN Sports Canada [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16216.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",beIN Sports Canada [99]
+http://linea.cc:8000/test123/test123/56359.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="", CTV SCI-FI HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/72.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MuchMusic(English).ca" group-title="Music", Much Music HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/79.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="LeafsNationNetwork(English).ca" group-title="",Leafs Nation Network [96]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/193644.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Lifetime(English).ca" group-title="",Lifetime [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14723.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Lifetime(English).ca" group-title="",Lifetime FHD [100]
+http://odenfull.co:2086/Mario0521/wBciOGSOgS/81146?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Lifetime(English).ca" group-title="",Lifetime HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/82.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="LoveNature(English).ca" group-title="",Love Nature [96]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64068.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MavTV(English).ca" group-title="",MAVTV [96]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64070.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MLBNetwork(English).ca" group-title="Sport",MLB NETWORK HD [94]
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/226211?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",MLB TV HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/130.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MTV(English).ca" group-title="Music",MTV [98]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14724.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MTV2(English).ca" group-title="Music",MTV 2 [95]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64073.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MuchMusic(English).ca" group-title="Music",MUCH MUSIC [97]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14725.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MakefulTV(English).ca" group-title="",Makeful [94]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64069.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Miracle [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64071.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Moicie(French).ca" group-title="",Moi & Cie HD (FR) [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/98.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Montreal Greek TV [96][offline]
+http://94.130.180.175:8081/live/greektv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MovieTime(English).ca" group-title="Movies",MovieTime [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64072.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="NBATV(English).ca" group-title="Sport",NBA TV [98]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64075.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="NBATV(English).ca" group-title="Sport",NBA TV HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/129.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",NFL Network HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/127.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Nickelodeon(English).ca" group-title="Kids",NICKELODEON [97]
+http://linea.cc:8000/test123/test123/51699.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Nat Geo Wild HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/71.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="NationalGeographic(English).ca" group-title="",National Geographic HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/60.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="NationalGeographicWild(English).ca" group-title="",National Geographic Wild [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64074.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",National Geographics [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14726.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Nickelodeon(English).ca" group-title="Kids",Nickelodeon [96]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64076.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Nickelodeon(English).ca" group-title="Kids",Nickelodeon HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/143.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Noovo V-Tele [79]
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRyAmOvBt3cquF6Jdi8tziuA?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",OLN [94]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14729.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",OMNI 1 [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64079.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",OMNI 2 [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64080.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",OWN [96]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14732.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ONEGetFit(English).ca" group-title="",One Get Fit [92]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64081.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Paramount Network [95]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64082.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(DE) 1te/2te/3te",Pardesi TV [97]
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="PeachtreeTV(English).ca" group-title="",Peachtree TV [88]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14733.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="PrimeAsiaTV(English).ca" group-title="",Prime Asia TV [100]
+http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Prime Canada TV [98]
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Prise [71]
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR96TffJAQZhisH1DOZ7C2k0?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Prise2(src01).ca" group-title="",Prise 2 [78]
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRwZwVXCd6Nte7zBS5FFm-Pw?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Prise2(src01).ca" group-title="",Prise 2 HD (FR) [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/100.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",QVTV [100]
+https://qvmstream.tulix.tv/720p/720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="RDS(Reseaudessports)(src01).ca" group-title="",RDS [96]
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR8FYjlaHzuLx-wvpjHQ54C0?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="RDS2(French).ca" group-title="",RDS 2 [71]
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR_sCEzEFpL-GMmjPd1OSwL4?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="RDS(Reseaudessports)(src01).ca" group-title="",RDS HD (FR) [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/101.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="RDSInfo(src01).ca" group-title="",RDS Info HD (FR) [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/102.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Showcase(English).ca" group-title="",SHOWCASE [92]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14734.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SLICE(English).ca" group-title="",SLICE [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14736.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Sportsnet360(English).ca" group-title="Sport",SPORTSNET 360 [98]
+http://linea.cc:8000/test123/test123/51691.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORTSNET EAST [98]
+http://linea.cc:8000/test123/test123/51692.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SportsnetOne4K(English).ca" group-title="Sport",SPORTSNET ONE [98]
+http://linea.cc:8000/test123/test123/51693.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SportsnetOntario(English).ca" group-title="Sport",SPORTSNET ONTARIO [99]
+http://linea.cc:8000/test123/test123/51694.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORTSNET WEST [97]
+http://linea.cc:8000/test123/test123/51695.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(DE) 1te/2te/3te",Sardari TV [99]
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SavoirMedia(src01).ca" group-title="",Savoir Media [74]
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR_VHaTEn9f6a-6h2EYm5k3w?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Series+ [86]
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR6IlOlP6AwhNcXWZG8wghyc?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Series+ HD (FR) [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/103.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Showcase(English).ca" group-title="",Showcase HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/73.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SilverScreenClassics(English).ca" group-title="",Silver Screen Classics [96]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64084.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SLICE(English).ca" group-title="",Slice HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/75.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SmithsonianChannel(English).ca" group-title="",Smithsonian Channel [98]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64085.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SportsNet East [96]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/5092.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SportsnetOne4K(English).ca" group-title="Sport",SportsNet One [94]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/5093.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SportsnetOntario(English).ca" group-title="Sport",SportsNet Ontario [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/5094.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Sportsnet360(English).ca" group-title="Sport",Sportsnet 360 [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/5091.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Sportsnet Event 1 HD [87]
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/279756?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Sportsnet4K(English).ca" group-title="Sport",Sportsnet HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/138.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Sportsnet WWE HD [87]
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/279764?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Sportsnet West [94]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/5096.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Super Ecran 1 [76]
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR9VcUEt1_23tXiTweDMV6AU?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Teletoon(Pacific)(English).ca" group-title="",TELETOON [96]
+http://linea.cc:8000/test123/test123/51704.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TFO(TVOntario)(src01).ca" group-title="",TFO [71]
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRxJIjTsG2cfPxsDKFXI4D94?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TLC [98]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14747.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TLC HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/89.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TLC HD [100]
+http://odenfull.co:2086/Mario0521/wBciOGSOgS/81152?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TLN [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64087.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Treehouse(English).ca" group-title="",TREEHOUSE [98]
+http://linea.cc:8000/test123/test123/51703.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CartoonNetwork(English).ca" group-title="Kids",Cartoon Network [96]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14667.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Cinepop(src01).ca" group-title="Music",Cinepop [84]
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR3JOfFQ32mDPG6tTp0HLYF4?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CookingChannel(English).ca" group-title="",Cooking Channel [96]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64028.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CookingChannel(English).ca" group-title="",Cooking Channel HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/109.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CottageLife(English).ca" group-title="",Cottage Life [94]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64029.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Crime Investigation [96]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64031.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",DISNEY [97]
+http://linea.cc:8000/test123/test123/51700.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",DISNEY JR [98]
+http://linea.cc:8000/test123/test123/51701.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DisneyXD(English).ca" group-title="Kids",DISNEY XD [97]
+http://linea.cc:8000/test123/test123/51702.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DIYNetwork(English).ca" group-title="",DIY Network [98]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14707.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DIYNetwork(English).ca" group-title="",DIY Network HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/86.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DTOUR(English).ca" group-title="",DTOUR [92]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64049.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Daystar(English).ca" group-title="",Daystar TV [89]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64045.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DejaView(English).ca" group-title="",Deja View [96]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64046.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DiscoveryChannel(English).ca" group-title="",Discovery Channel [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14703.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DiscoveryScience(English).ca" group-title="",Discovery Science [96]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64047.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DisneyChannel(English).ca" group-title="Kids",Disney Channel [93][offline]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/27233.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DisneyChannel(English).ca" group-title="Kids",Disney Channel HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/146.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",Disney JR HD [100]
+http://odenfull.co:2086/Mario0521/wBciOGSOgS/81136?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DisneyJunior(English).ca" group-title="Kids",Disney Junior [94]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64048.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DisneyJunior(English).ca" group-title="Kids",Disney Junior HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/147.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DisneyXD(English).ca" group-title="Kids",Disney XD [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14706.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DisneyXD(English).ca" group-title="Kids",Disney XD HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/145.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",E! [98]
+http://linea.cc:8000/test123/test123/51675.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",E! Entertainment [98]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14709.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",E! Entertainment HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/85.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",EET TV [98]
+https://eu.streamjo.com/eetlive/eettv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ELLEFictions(src01).ca" group-title="",ELLE Fictions [73]
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR92MABiGemwV27lhit2ZY34?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",EMCI TV Montreal (Opt-2) [100]
+https://emci-td-hls.akamaized.net/hls/live/2007264/emcitdhls/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",EWTN Canada [100]
+http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",EWTN Canada [100]
+https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Evasion(src01).ca" group-title="",Evasion HD (FR) [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/96.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FoodNetwork(English).ca" group-title="",FOOD NETWORK [98]
+http://linea.cc:8000/test123/test123/51676.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",FTO HD (FR) [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/88.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FX(English).ca" group-title="",FX [96]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64053.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FX(English).ca" group-title="",FX HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/69.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FXX(English).ca" group-title="",FXX [92]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64054.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FXX(English).ca" group-title="",FXX [100]
+http://odenfull.co:2086/Mario0521/wBciOGSOgS/81142?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FXX(English).ca" group-title="",FXX HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/70.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FamilyChannel(English).ca" group-title="",Family Channel [98]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14710.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Family HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/84.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FamilyJr(English).ca" group-title="",Family JR HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/144.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",Family Junior [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14711.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Fight Network HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/132.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FoodNetwork(English).ca" group-title="",Food Network [92]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14712.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FoodNetwork(English).ca" group-title="",Food Network HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/76.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Fox [98]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64051.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FoxNewsChannel(English).ca" group-title="News",Fox News Channel [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64052.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="GameShowNetwork(English).ca" group-title="",GAME SHOW NETWORK [99]
+http://linea.cc:8000/test123/test123/51677.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="GameTV(English).ca" group-title="",GAME+ [94]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16049.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="GlobalToronto(English).ca" group-title="",GLOBAL TORONTO [97]
+http://linea.cc:8000/test123/test123/51678.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="GameTV(English).ca" group-title="",GameTV HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/77.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Golf [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64064.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="GolfChannel(English).ca" group-title="Sport",Golf Channel HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/131.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",GurSikh Sabha TV (Scarborough) [99]
+http://cdn12.henico.net:8080/live/gsctv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",HBO 2 HD [100]
+http://odenfull.co:2086/Mario0521/wBciOGSOgS/81145?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="HGTV(English).ca" group-title="",HGTV [100]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14720.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="HGTV(English).ca" group-title="",HGTV HD [97]
+http://linea.cc:8000/test123/test123/51681.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="HGTV(English).ca" group-title="",HGTV HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/83.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="HLN(English).ca" group-title="",HLN [87]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64066.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Historia(src01).ca" group-title="",Historia HD (FR) [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/56.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="History(English).ca" group-title="",History [96]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/14721.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",History Channel HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/59.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="HISTORY2(English).ca" group-title="",History2 [94]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64065.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ICIRDI(French).ca" group-title="",ICI RDI [100]
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ICIRDI(French).ca" group-title="",ICI RDI [98]
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRygE9wc4vd2H8PUd4iUscgs?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ICIRDI(French).ca" group-title="",ICI RDI [99]
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ICIRDI(French).ca" group-title="",ICI RDI HD (FR) [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/91.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",ICI Radio-Canada Télé HD (FR) [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/122.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",IIPC TV [100]
+https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Investigation(French).ca" group-title="",Investigation (FR) HD [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/90.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="InvestigationDiscovery(English).ca" group-title="",Investigation Discovery [96]
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64067.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="LCN(src01).ca" group-title="",LCN [91]
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRwa6Q6o-CfTp0SauhKw7u_o?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="LCN(src01).ca" group-title="",LCN HD (FR) [100]
+http://list4k.online:8080/Jorge10z/nogv6Dn08L/97.ts?checkedby:iptvcat.com
