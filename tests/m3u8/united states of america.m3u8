@@ -1,0 +1,41 @@
+#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:0 tvg-id="" group-title="Sport",NBC Golf FHD [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/139785?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="NBCSportsBayArea.us" group-title="Sport",NBC Sports Bay Area HD [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/139787?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="NBCSportsBoston.us" group-title="Sport",NBC Sports Boston HD [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/139788?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="NBCSportsCalifornia.us" group-title="Sport",NBC Sports California HD [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/139789?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",NBC Sports Chicago Plus FHD [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/139791?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",NBC Sports Northwest HD [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/139793?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",NBC Sports Philadelphia HD [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/139794?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",NBC Sports Philadelphia Plus HD [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/139795?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="NBCSportsWashington.us" group-title="Sport",NBC Sports Washington HD [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/139796?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="NBATV.us" group-title="Sport",Nba Tv [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/62781?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="NFLNETWORK.us" group-title="Sport",Nfl Network [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/62789?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ESPN2.us" group-title="Sport",ESPN2 [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/62784?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ESPN.us" group-title="Sport",Espn [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/62785?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News;Sport",Espn News [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/62786?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ESPNU.us" group-title="Sport",Espn U [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/62783?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Fox  Sport [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/62775?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FoxSports1.us" group-title="Sport",Fox  Sports 1 [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/62776?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FoxSports2.us" group-title="Sport",Fox Sports 2 [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/62777?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Golf  Channel [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/62779?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="beINSports.us" group-title="Sport",Bein Sports [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/62773?checkedby:iptvcat.com
