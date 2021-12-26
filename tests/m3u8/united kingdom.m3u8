@@ -1,0 +1,43 @@
+#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="Sport",BT Sport 2 HD [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/95053?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="Sport",BT Sport 3 HD [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/95055?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Sport",BT Sport ESPN HD [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/94865?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",BT Sport Extra [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/94866?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BTSportExtra1.uk" group-title="Sport",BT Sport Extra 1 [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/94867?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BTSportExtra3.uk" group-title="Sport",BT Sport Extra 3 [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/94869?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="Sport",Bt Sport 1 HD [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/95052?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="eirSport1.uk" group-title="Sport",Eir Sport 1 HD+ [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/94905?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FreeSports(src01).uk" group-title="Sport",Free Sports [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/94918?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Sky Sport Action HD [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/94996?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Sky Sport Arena HD [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/94997?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Sky Sport Cricket HD [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/94999?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Sky Sport F1 HD [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/95001?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Sky Sport Football HD [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/95002?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Sky Sport Golf HD [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/95004?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Sky Sport Main Events [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/95005?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Sky Sport Main Events HD [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/95006?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportNews(German).uk" group-title="News;Sport",Sky Sport News [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/95007?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Sky Sport Premier League HD [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/95009?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Sky Sport Racing [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/94827?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsMix.uk" group-title="Sport",Sky Sports MIX [100]
+http://iptvvi.com:80/Bektash/qNvXcDD98fPC/95010?checkedby:iptvcat.com
