@@ -1,6 +1,4 @@
-﻿#EXTM3U
-#EXTINF:-1 tvg-id="DUMMYInfo" tvg-name="LocalNow Information" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Local_Now_logo.png/300px-Local_Now_logo.png" group-title="Info",LocalNow Information
-https://github.com/DeltaSr95/LocalNow/raw/master/localnowinfo.mp4
+#EXTM3U
 #EXTINF:-1 tvg-id="LocalNow_EPGCareer Day" tvg-name="Career Day" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60c153e85fc0b03516381a58" group-title="Family",Career Day
 https://linear-88.frequency.stream/dist/localnow/88/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="LocalNow_EPGHolidays at Home" tvg-name="Holidays at Home" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/617867c379905b2944505c72" group-title="Family",Holidays at Home
