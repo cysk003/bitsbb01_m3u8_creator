@@ -1,0 +1,25 @@
+#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:0 tvg-id="" group-title="",MAXtv Promo Kanal [NO KODI] [100]
+http://195.29.70.67/PLTV/88888888/224/3221226027/02.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",MAXtv Promo Kanal [NO KODI] [100]
+http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",MAXtv Promo Kanal [NO KODI] [100]
+http://195.29.70.84/PLTV/88888888/224/3221226027/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",MAXtv Promo Kanal [NO KODI] [100]
+http://195.29.70.67/PLTV/88888888/224/3221226027/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(DE) RTL/Sat/...",RTL [NO KODI] [100]
+http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(DE) RTL/Sat/...",RTL [NO KODI] [100]
+http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(DE) RTL/Sat/...",RTL [NO KODI] [100]
+http://195.29.70.67/PLTV/88888888/224/3221226195/01.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(DE) RTL/Sat/...",RTL [NO KODI] [100]
+http://195.29.70.67/PLTV/88888888/224/3221226195/03.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(DE) RTL/Sat/...",RTL [NO KODI] [100]
+http://195.29.70.67/PLTV/88888888/224/3221226195/03.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(DE) RTL/Sat/...",RTL [NO KODI] [100]
+http://195.29.70.67/PLTV/88888888/224/3221226195/01.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(DE) RTL/Sat/...",RTL [NO KODI] [100]
+http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(DE) RTL/Sat/...",RTL [NO KODI] [100]
+http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
