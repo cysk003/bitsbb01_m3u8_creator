@@ -1,0 +1,143 @@
+#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:0 tvg-id="" group-title="Sport",ELEVEN SPORTS 1 [79][offline]
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21444?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ELEVEN SPORTS 1 [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92137?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ELEVEN SPORTS 1 [100]
+http://cdnrede.com:80/Erik123/Erik321/207189?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ELEVEN SPORTS 1 HD [100]
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21445?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ELEVEN SPORTS 2 [100]
+http://cdnrede.com:80/Erik123/Erik321/207190?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ELEVEN SPORTS 2 [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92138?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ELEVEN SPORTS 2 HD [97]
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21448?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ELEVEN SPORTS 3 [100]
+http://cdnrede.com:80/Erik123/Erik321/207191?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ELEVEN SPORTS 3 [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92139?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ELEVEN SPORTS 3 FHD [75][offline]
+http://ky-tv.cc:80/toyota18/toyota18/399292.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ELEVEN SPORTS 4 [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92140?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ELEVEN SPORTS 4 [100]
+http://cdnrede.com:80/Erik123/Erik321/207192?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ELEVEN SPORTS 5 [100]
+http://cdnrede.com:80/Erik123/Erik321/207193?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ELEVEN SPORTS 5 [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92141?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ELEVEN SPORTS 6 [100]
+http://cdnrede.com:80/Erik123/Erik321/207194?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ELEVEN SPORTS 6 [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92142?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ESPN 1 US [89][offline]
+http://103.194.169.171:8282/ESPN1_US/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ESPN 2 [84][offline]
+http://103.194.169.171:8282/ESPN2_US/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",EURO SPORT 1 [100]
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21313?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Eleven Sports 1 HD [77][offline]
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR3MHHG4CKEwLxVGVfGn_w7w?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Eleven Sports 1 HD, Eleven Sports 1 HD (LO) [91][offline]
+http://103.194.169.171:8282/PT:ElevenSport_1_HD_lo/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Eleven Sports 1 HD (HI) [94][offline]
+http://103.194.169.171:8282/PT:ElevenSport_1_HD_hi/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Eleven Sports 2 HD, Eleven Sports 2 HD (LO) [94][offline]
+http://103.194.169.171:8282/PT:ElevenSport_2_HD_lo/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Eleven Sports 2 HD [80][offline]
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRye7RE9R39yGR2rys49sI5I?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Eleven Sports 2 HD (HI) [90][offline]
+http://103.194.169.171:8282/PT:ElevenSport_2_HD_hi/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Eleven Sports 3 HD, Eleven Sports 3 HD (LO) [90][offline]
+http://103.194.169.171:8282/PT:ElevenSport_3_HD_lo/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Eleven Sports 3 HD [77][offline]
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR-pudK-GZWtlCYx6D3pyc7M?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Eleven Sports 3 HD (HI) [92][offline]
+http://103.194.169.171:8282/PT:ElevenSport_3_HD_hi/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Eleven Sports 4 HD [89][offline]
+http://103.194.169.171:8282/PT:ElevenSport_4_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Eleven Sports 4 HD [75][offline]
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR01MRRv0IZArhD9IdUqk5Bs?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Eleven Sports 5 HD, Eleven Sports 5 HD (HI) [84][offline]
+http://103.194.169.171:8282/PT:ElevenSport_5_HD_hi/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Eleven Sports 5 HD [78][offline]
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR1giXOUW31hiytEMpi-GAGs?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Eleven Sports 5 HD (LO) [90][offline]
+http://103.194.169.171:8282/PT:ElevenSport_5_HD_lo/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Eleven Sports 6 HD [91][offline]
+http://103.194.169.171:8282/PT:ElevenSport_6_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",KOMBAT SPORT [86]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92128?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Kombat Sport [77][offline]
+http://103.194.169.171:8282/PT:KOMBAT_SPORT/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",MOTORSPORT.TV [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92127?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",NBA TV [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92125?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",NBA TV HD [100]
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21372?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",NBC Sports Network [90][offline]
+http://103.194.169.171:8282/NBCSN_US/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT TV [98]
+http://cdnrede.com:80/Erik123/Erik321/207264?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT TV  1 HD (HI) [90][offline]
+http://103.194.169.171:8282/PT:SPORT_TV_1_HD_hi/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT TV + [100]
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21407?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT TV + [100]
+http://cdnrede.com:80/Erik123/Erik321/207263?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT TV + [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92122?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT TV 1 [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92132?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT TV 1 HD [97]
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21382?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT TV 2 [100]
+http://cdnrede.com:80/Erik123/Erik321/207265?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT TV 2 [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92133?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT TV 2 HD [100]
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21385?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT TV 3 [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92134?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT TV 3 [100]
+http://cdnrede.com:80/Erik123/Erik321/207266?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT TV 3 HD [100]
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21386?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT TV 4 [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92135?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT TV 4 [100]
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21325?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT TV 4 [100]
+http://cdnrede.com:80/Erik123/Erik321/207267?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT TV 5 [100]
+http://cdnrede.com:80/Erik123/Erik321/207268?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT TV 5 FHD [75][offline]
+http://ky-tv.cc:80/toyota18/toyota18/399410.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT TV 6 [100]
+http://cdnrede.com:80/Erik123/Erik321/207210?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT TV NBA [100]
+http://cdnrede.com:80/Erik123/Erik321/207269?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT TV NBA FHD [73][offline]
+http://ky-tv.cc:80/toyota18/toyota18/399411.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT.TV1 [94]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/543?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT.TV2 [94]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/544?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT.TV3 [92]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/545?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT.TV4 [93]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/546?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORTING TV [97]
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21411?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORTING TV [100]
+http://cdnrede.com:80/Erik123/Erik321/207270?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORTINGTV [80][offline]
+http://103.194.169.171:8282/PT:SPORTING_TV_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Sport TV + [83][offline]
+http://103.194.169.171:8282/PT:SPORT_TV_plus/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Sport TV 2 HD (HI) [88][offline]
+http://103.194.169.171:8282/PT:SPORT_TV_2_HD_hi/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Sport TV2 [78][offline]
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRwOa7EjfEh80ps7n_kGWxIY?checkedby:iptvcat.com
