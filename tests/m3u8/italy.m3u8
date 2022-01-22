@@ -1,0 +1,21 @@
+#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:0 tvg-id="" group-title="Sport",Motor Sport HD [70][offline]
+http://jessicatv.site:8080/Mcnsi/7210db0d/2513?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",RAI SPORT 1 [97]
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23287?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Rai Sport  HD [88]
+http://190.115.29.22:8080/carter/GUV1bMq2VK/2274?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Rai Sport plus HD [88][offline]
+http://103.194.169.171:8282/IT:Rai_Sport_plus_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Rai sport +HD [88]
+http://190.115.29.22:8080/carter/GUV1bMq2VK/2273?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",S Sport 24 HD [100]
+http://epix.hopto.org:7713/tony-durr-origin/68985258TNY/912?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",S Sport Calcio HD [75][offline]
+http://epix.hopto.org:7713/tony-durr-origin/68985258TNY/70009?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",S Sport Football HD [100]
+http://epix.hopto.org:7713/tony-durr-origin/68985258TNY/919?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",S Sport Uno HD [100]
+http://epix.hopto.org:7713/tony-durr-origin/68985258TNY/913?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Sky Sport 24HD [75]
+http://190.115.29.22:8080/carter/GUV1bMq2VK/410?checkedby:iptvcat.com
