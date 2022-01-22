@@ -1,0 +1,121 @@
+#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:0 tvg-id="" group-title="",KKRtv [100]
+http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Kanal Hovedstaden [100]
+https://59b954022ec35.streamlock.net:443/liveTV2/_definst_/smil:liveTVstream2.transcoder.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TV 2/Bornholm [100]
+http://live.tv2bornholm.dk/stream/live/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TV 2/Bornholm [100]
+https://live.tv2bornholm.dk/stream/live/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",▁▂▃▅▆▇★☀二【« SWEDEN»»】二☀★▇▆▅▃▂▁ [98]
+https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Taivas TV7 [100]
+http://vod.tv7.fi:1935/tv7-fi/tv7-fi.stream_720p/chunklist_w2131949141.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Yle TV1 [100]
+https://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Yle TV2 [100]
+https://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",---- SENDER ISLAND ----, KVF Faroe Island [100]
+https://w2.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/chunklist_w587901821_b772000_slfao.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",N4 [100]
+https://live.tv.c.is/n4/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",RUV [100]
+https://ruvruverl-live-hls.secure.footprint.net/f93971c9d341476a506344e4994f741bf63faa01-1550945035/ruv/ruverl/index/stream4.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",R�V 1 Island [100]
+https://ruvruverl-live-hls.secure.footprint.net/0e84e84137e292e51003f97b3681924e52bd3874-1548832268/ruv/ruverl/index/stream1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Canal Motor (720p) [100]
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Frikanalen [100]
+https://frikanalen.no/stream/stream_1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Stortinget [99]
+http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Stortinget HS1 (576p) [100]
+https://25480cc657998e13839139df392b46eb-httpcache0-19333-cachelive0.dna.ip-only.net/19333-cachelive0/smil:push-sal1_1/playlist.m3u8?dvr=&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Stortinget HS2 (576p) [100]
+https://bbe19a83414b545d91f32f94316aab71-httpcache0-19333-cachelive0.dna.ip-only.net/19333-cachelive0/smil:push-sal2_1/playlist.m3u8?dvr=&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Stortinget N-202 (576p) [100]
+https://98d91ca32ff6fbca255f6ec9f29fc4d0-httpcache0-19333-cachelive0.dna.ip-only.net/19333-cachelive0/smil:push-sal3_1/playlist.m3u8?dvr=&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Stortinget Stortingssalen (576p) [100]
+https://bf75c7afaa4f8698042ab38336a843a0-httpcache0-19333-cachelive0.dna.ip-only.net/19333-cachelive0/smil:push-stortinget_1/playlist.m3u8?dvr=&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",ATG [100]
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Aftonbladet TV, SE | Aftonbladet TV [100]
+http://aftonbladetlive-lh.akamaihd.net/i/livestream01_1@182509/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TV 1 [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/7044?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TV 3 [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/1610?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TV 4 [100]
+https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791716.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TV 4 [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/1835?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TV 4 Nyheterna [100]
+https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791350.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TV 4 Svensk Politik [99]
+https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791553.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TV 6 [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/477?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TV4 Fakta [71][offline]
+http://balkanshark.com:25461/speedhdhd/acjQyHovsC/1161?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Movies",Viasat Film Action HD [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/2426?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Movies",Viasat Film Family HD [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/2425?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Movies",Viasat Film Family Norway [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/7048?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Movies",Viasat Film Premiere HD [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/2423?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Viasat Fotboll HD [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/7049?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",Azerbaijan News TV (720p) [Not 24/7] [100]
+https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",C More First [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/7054?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",C More Live 2 HD [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/476?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",C More Live 3 HD [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/475?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",C More Live HD [79][offline]
+http://ky-tv.cc:80/toyota18/toyota18/399776.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",C More Live HD [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/1831?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Di TV [99]
+https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Discovery Channel [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/1819?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Discovery Channel Sverige [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/12088?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",Disney XD [93]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/1671?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Expressen TV [99]
+https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/chunklist_b3628000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Expressen TV, SE | Expressen TV [99]
+https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Himlen TV 7 [100]
+http://vod.tv7.fi:1935/tv7-se/_definst_/smil:tv7-se.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Himlen TV7 [100]
+http://vod.tv7.fi:1935/tv7-se/_definst_/mp4:tv7-se.stream_360p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",KANAL 9 [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/12087?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Miracle Channel (360p) [100]
+https://yjh3p.stream.miraclechannel.com/hls/miracle1_med/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Miracle Channel (576p) [100]
+https://yjh3p.stream.miraclechannel.com/hls/miracle1_high/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",NBA TV HD [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/654?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",NRK1 [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/6989?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",NRK2 [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/6990?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",National Geographiic [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/1820?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",SJUAN 7 [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/1612?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",STORTINGET [100]
+http://194.132.85.39/19333-live0/_definst_/push-stortinget_1/chunklist_w1136072204.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",SVT1 [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/1608?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",SVT2 [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/12011?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",kkr [100]
+http://stream.kkr.dk/live/kkr/chunklist_w832247479.m3u8?checkedby:iptvcat.com
