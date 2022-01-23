@@ -1,0 +1,71 @@
+#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:0 tvg-id="" group-title="Sport",ESPN 1 [89]
+http://190.115.29.22:8080/carter/GUV1bMq2VK/482?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ESPN 1 HD [86]
+http://190.115.29.22:8080/carter/GUV1bMq2VK/1650?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ESPN 2 [80]
+http://190.115.29.22:8080/carter/GUV1bMq2VK/483?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ESPN 3 [84]
+http://190.115.29.22:8080/carter/GUV1bMq2VK/484?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ESPN 4 [90]
+http://190.115.29.22:8080/carter/GUV1bMq2VK/485?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ESPN 5 [85]
+http://190.115.29.22:8080/carter/GUV1bMq2VK/486?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",EXTREME SPORTS CHANNEL [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92911?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",FOX SPORTS 1 EREDIVISIE [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92905?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",FOX SPORTS 2 EREDIVISIE [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92906?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",FOX SPORTS 4 EREDIVISIE [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92908?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",FOX SPORTS 5 EREDIVISIE [94]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92909?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",FOX Sport 2 [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/660?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",FOX Sports 1 [72][offline]
+http://balkanshark.com:25461/speedhdhd/acjQyHovsC/382?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",FOX Sports 1 Eredivisie [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/659?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",FOX Sports 3 Eredivisie 2 [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/661?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",FOX Sports 4 [71][offline]
+http://balkanshark.com:25461/speedhdhd/acjQyHovsC/385?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Fox Sports 2 HD [91][offline]
+http://103.194.169.171:8282/NL_FOX_SPORTS2_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",NPO Politiek/Sport [92]
+http://190.115.29.22:8080/carter/GUV1bMq2VK/2380?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ZIGGO SPORT [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92898?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ZIGGO SPORT DOCU [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92904?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ZIGGO SPORT EXTRA [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92903?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ZIGGO SPORT GOLF [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92902?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ZIGGO SPORT RACING [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92900?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ZIGGO SPORT SELECT [93]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92899?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ZIGGO SPORT VOETBAL [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92901?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Ziggo Sport Docu FHD [87]
+http://190.115.29.22:8080/carter/GUV1bMq2VK/892?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Ziggo Sport FHD [80]
+http://190.115.29.22:8080/carter/GUV1bMq2VK/9766?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Ziggo Sport Golf [86]
+http://190.115.29.22:8080/carter/GUV1bMq2VK/891?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Ziggo Sport Racing [71][offline]
+http://balkanshark.com:25461/speedhdhd/acjQyHovsC/376?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Ziggo Sport Racing [90]
+http://190.115.29.22:8080/carter/GUV1bMq2VK/889?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Ziggo Sport Select HD [72][offline]
+http://balkanshark.com:25461/speedhdhd/acjQyHovsC/381?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Ziggo Sport Select HD [85]
+http://190.115.29.22:8080/carter/GUV1bMq2VK/957?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Ziggo Sport Tennis FHD [87]
+http://190.115.29.22:8080/carter/GUV1bMq2VK/2372?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Ziggo Sport Voetbal [71][offline]
+http://balkanshark.com:25461/speedhdhd/acjQyHovsC/377?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Ziggo Sport Voetbal [92]
+http://190.115.29.22:8080/carter/GUV1bMq2VK/896?checkedby:iptvcat.com
