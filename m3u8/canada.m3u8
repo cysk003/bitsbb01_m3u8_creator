@@ -1,0 +1,1189 @@
+#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:0 tvg-id="" group-title="",5AAB TV [99]
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",5AAB TV [99]
+http://158.69.124.9:1935/5aabtv/5aabtv/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",A&E [100]
+http://tutvxweb.net:8000/guillenomorenocristian/NDKFXJ5C5C/130382?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",A&E [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/16240?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",A&E HD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/9689?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ABCSpark(English).ca" group-title="",ABC SPARK [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3285?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",ABC WEST [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3284?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",ABORIGINAL PEOPLE TELEVISION NETWORK [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65869?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ADDIKTV(French).ca" group-title="",ADDIK TV [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66735?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="AMC(English).ca" group-title="",AMC [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3283?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="AMC(English).ca" group-title="",AMC [100]
+http://tutvxweb.net:8000/guillenomorenocristian/NDKFXJ5C5C/130383?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="AMC(English).ca" group-title="",AMC HD [92]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71529.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",AMC HD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17377?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="AmericanHeroesChannel(English).ca" group-title="",AMERICAN HEROES CHANNEL [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3282?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",AMI TELEVISION [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65870?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="AnimalPlanet(English).ca" group-title="",ANIMAL PLANET [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3281?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="AnimalPlanet(English).ca" group-title="",ANIMAL PLANET [75]
+http://tutvxweb.net:8000/guillenomorenocristian/NDKFXJ5C5C/130384?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Amazing Discoveries TV [99]
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Amazing Discoveries TV, CA | Amazing Discoveries TV [100]
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Az Star TV (1080p) [100]
+https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(UK) Main;News",BBC CANADA [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65866?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BBCEarth(English).ca" group-title="(UK) Main;News",BBC EARTH [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/99171?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(UK) Main;News",BBC Toronto Gaunda Punjab [99]
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BBCWorldNews(NorthAmerica)(English).ca" group-title="(UK) Main;News",BBC WORLD NEWS [86]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/91261?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",BEIN SPORTS CANADA [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/99361?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",BET [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3279?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BNNBloomberg(English).ca" group-title="News",BNN BLOOMBERG [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3278?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",BNN HD [99]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71530.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",BNN HD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17403?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",BRAVO [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3277?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",BUSINESS BLOOMBERG HD [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/93999?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Bravo TV HD [99]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71531.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Bravo TV HD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17401?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA (GR) Odyssey Greek [70]
+http://jjkdomain123.one:80/Charlie/Charlie/233863?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA A&E [100]
+http://jjkdomain123.one:80/Charlie/Charlie/233785?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA ABC 4 (KOMO) SEATTLE [75][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/176359?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA AMC [83][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/233902?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA ANIMAL PLANET [85][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/233787?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",CA Al Jazeera English [73]
+http://jjkdomain123.one:80/Charlie/Charlie/233893?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA BABY TV [82]
+http://jjkdomain123.one:80/Charlie/Charlie/175779?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(UK) Main;News",CA BBC EARTH [77][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/233788?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TVASports(src01).ca" group-title="Sport",TVA SPORTS HD [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/93986?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",TVA Sports CA-FR [92]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/24416?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TVC9 (1080p) [Not 24/7] [100]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC0JP0ek-HhcqisiEpsZiQZA/live&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TamilVision(English).ca" group-title="",Tamil Vision TV [100]
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TamilVision(English).ca" group-title="",Tamil Vision TV [100]
+http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Tele Quebec CA-FR [92]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/28079?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Teletoon French CA-FR [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/28055?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",The Shopping Channel [100]
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",The Sports Network (TSN5) (720p) [100]
+http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TheWeatherNetwork(English).ca" group-title="",The Weather Network (480p) [100]
+http://encodercdn1.frontline.ca/kamino/output/The_Weather_Network/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TheWeatherNetwork(English).ca" group-title="",The Weather Network (720p) [100]
+http://encodercdn1.frontline.ca/kamino/output/The_Weather_Network_720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",The Weather Network CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17399?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Toronto 360 TV [99]
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Treehouse(English).ca" group-title="",Treehouse [99]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71574.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Treehouse HD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/28066?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Télé-Mag Québec (1080p) [Not 24/7] [96][offline]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/ctmq/live&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Télé-Mag Québec (1080p) [Not 24/7] [97][offline]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCNKXYT-Nng5LBMUQrZJ9zWA/live&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Unis TV HD CA-FR [92]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/28076?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Uvagut TV (1080p) [100]
+http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="VisionTV(English).ca" group-title="",VISION TV [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65822?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="VRAKTV(French).ca" group-title="",VRAK HD [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/93976?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="VRAKTV(French).ca" group-title="",VRAK TV [93]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71610.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",VRAK TV CA-FR [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/28061?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="WNetwork(English).ca" group-title="",W NETWORK [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3195?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",W Network HD CA [92]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17384?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="WeatherNetwork(CWEA)(English).ca" group-title="",WEATHER NETWORK [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65821?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="WeatherNetwork(CWEA)(English).ca" group-title="",WEATHER NETWORK HD [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/99181?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",WGN 9 CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17383?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",WGN CHICAGO [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/91638?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="WILDTV(English).ca" group-title="",WILD TV [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/93948?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",WWE [87]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/16218?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",YES BURLINGTON [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/93957?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="YesTV(English).ca" group-title="",YES TV [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3191?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",YES TV HD CA [92]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/28058?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",YTV EAST [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3190?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",YTV WEST [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/93919?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Yoopa CA-FR [91]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/24412?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Z-Tele CA-FR [92]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/24411?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Zeste CA-FR [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/28075?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",beIN Sports HD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/8376?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Nickelodeon(English).ca" group-title="Kids",nickelodeon HD [71]
+http://jessicatv.site:8080/Mcnsi/7210db0d/9202?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Meteo-Media CA-FR [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/24428?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MeteoMedia(MM)(French).ca" group-title="",Meteomedia (720p) [100]
+http://encodercdn1.frontline.ca/encoder181/output/Meteo_Media_720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Montreal Greek TV [96]
+http://94.130.180.175:8081/live/greektv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Musique Plus CA-FR [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/24426?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",NACTV HD [83]
+http://jessicatv.site:8080/Mcnsi/7210db0d/286211?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",NAT GEO WILD [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65838?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="NationalGeographic(English).ca" group-title="",NATIONAL GEOGRAPHIC [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/13233?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="NBATV(English).ca" group-title="Sport",NBA TV [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65840?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",NBC GOLF [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3403?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",NFL NETWORK [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3402?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Nickelodeon(English).ca" group-title="Kids",NICKELODEON [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3238?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",NRB TV (1080p) [Not 24/7] [100]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",NTV NEWFOUNDLAND [73]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/36347?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="NationalGeographic(English).ca" group-title="",National Geographic HD [99]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71567.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",OLN [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65837?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",OLN HD [72]
+http://jessicatv.site:8080/Mcnsi/7210db0d/454?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",OMNI EAST [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65836?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",OMNI.1 [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65835?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",OMNI.2 [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65834?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",OWN [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3237?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",OWN FHD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17379?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Ontario Parliamentary Network HD [71]
+http://jessicatv.site:8080/Mcnsi/7210db0d/286215?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Outside TV HD [74]
+http://jessicatv.site:8080/Mcnsi/7210db0d/286216?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",PARAMOUNT [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/91265?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",PBS BUFFALO (WNED) [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65833?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",PBS Buffalo (WNED) HD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/28057?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",PBS East FHD [72]
+http://jessicatv.site:8080/Mcnsi/7210db0d/40658?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="PeachtreeTV(English).ca" group-title="",PEACH TREE TV [94]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3235?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Prise2(src01).ca" group-title="",PRISE 2 HD [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/93943?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Paramount FHD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/28081?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Paramount Network HD [75]
+http://jessicatv.site:8080/Mcnsi/7210db0d/451?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(DE) 1te/2te/3te",Pardesi TV [96]
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Peachtree TV HD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17368?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Players TV FHD [73]
+http://jessicatv.site:8080/Mcnsi/7210db0d/286218?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Plus TFO HD [75]
+http://jessicatv.site:8080/Mcnsi/7210db0d/286846?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Plymouth Rock TV (1080p) [96]
+https://vse2-eu-all59.secdn.net/barakyah-channel/live/plymouthtvedge/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Plymouth Rock TV (1080p) [100]
+https://vse2-eu-all59.secdn.net/barakyah-channel/live/plymouthtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="PrimeAsiaTV(English).ca" group-title="",Prime Asia TV [100]
+http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Prime Canada TV [99]
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",QVTV [100]
+https://qvmstream.tulix.tv/720p/720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",RDI CA-FR [92]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/24425?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",RDS 2 CA-FR [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/28056?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",RDS CA-FR [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/28088?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="RDSInfo(src01).ca" group-title="",RDS INFO [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/93984?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="RDSInfo(src01).ca" group-title="",RDS Info [98]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71597.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",RDS Info CA-FR [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/24424?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SavoirMedia(src01).ca" group-title="",SAVOIR MEDIA (CFTU) [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/93963?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Showcase(English).ca" group-title="",SHOWCASE [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65832?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SilverScreenClassics(English).ca" group-title="",SILVER SCREEN CLASSICS [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3230?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SLICE(English).ca" group-title="",SLICE [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3231?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",SMITHSONIAN [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/100645?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORTSMAN [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/100877?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Sportsnet360(English).ca" group-title="Sport",SPORTSNET 360 [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3227?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORTSNET EAST [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3226?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SportsnetOne4K(English).ca" group-title="Sport",SPORTSNET ONE [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3225?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SportsnetOntario(English).ca" group-title="Sport",SPORTSNET ONTARIO [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3224?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORTSNET PACIFIC [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3223?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORTSNET WEST [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3222?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SportsnetWorld(English).ca" group-title="Sport",SPORTSNET WORLD [96]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3221?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",SUPER CHANNEL HEART & HOME [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66739?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SuperChannelVault(English).ca" group-title="",SUPER CHANNEL VAULT [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66740?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 431 (WHEN LIVE) [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66903?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 432 (WHEN LIVE) [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66904?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 433 (WHEN LIVE) [94]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66905?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 434 (WHEN LIVE) [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66906?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 435 (WHEN LIVE) [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66907?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 436 (WHEN LIVE) [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66908?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 437 (WHEN LIVE) [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66909?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 438 (WHEN LIVE) [96]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66911?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 439 (WHEN LIVE) [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66910?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 440 (WHEN LIVE) [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66912?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 441 (WHEN LIVE) [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66913?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 442 (WHEN LIVE) [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66914?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA SHOWCASE [71][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/233932?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA Slice TV [100]
+http://jjkdomain123.one:80/Charlie/Charlie/233934?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA Smithion [100]
+http://jjkdomain123.one:80/Charlie/Charlie/233935?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA Smithsonian Channel [100]
+http://jjkdomain123.one:80/Charlie/Charlie/233831?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA TREEHOUSE [91][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/175786?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA YTV East [73]
+http://jjkdomain123.one:80/Charlie/Charlie/175635?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA | EMCI TV, EMCI TV [100]
+https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA | EWTN Canada, EWTN Canada [100]
+https://dyo5cp96eopax.cloudfront.net/p/CANE_1920x1080_4000k.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA | Global British Columbia, Global British Columbia [100]
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",CA | Global News, Global News [100]
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA | Global Toronto, Global Toronto [100]
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA | IIPC TV, IIPC TV [100]
+https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA | Legislative Assembly of Ontario, Legislative Assembly of Ontario [99]
+http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA | QVTV, QVTV [100]
+https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA | The Shopping Channel, The Shopping Channel [100]
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CANADA ONE [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/46666?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CanalD(src01).ca" group-title="",CANAL D HD [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/93944?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CBC(Vancouver)(CBUT)(English).ca" group-title="",CBC [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/5487?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CBC(Vancouver)(CBUT)(English).ca" group-title="",CBC [96]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71538.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CBC Charlottetown HD [97]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71534.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CBC EDMONTON [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/15276?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CBC HALIFAX [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/15278?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CBC HALIFAX HD [96]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/93930?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CBC(Vancouver)(CBUT)(English).ca" group-title="",CBC HD [97]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71533.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CBC HD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17393?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CBC MONTEREAL [92]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71535.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CBC MONTREAL [96]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/15279?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CBC Montreal [89]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71587.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CBC Montreal CA-FR [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/30013?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CBCNewsNetwork(English).ca" group-title="News",CBC NEWS NETWORK [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65865?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",CBC News HD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/30014?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CBCOttawa(English).ca" group-title="",CBC OTTAWA [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/15280?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CBCOttawa(English).ca" group-title="",CBC Ottawa HD [98]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71537.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CBC ST JOHNS [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/15282?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CBC TORONTO [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/15283?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CBC Toronto [96][offline]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71536.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CBC Toronto HD [95][offline]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71539.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CBC Toronto HD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/30009?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CBC VANCOUVER [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/15284?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CBCWinnipeg(English).ca" group-title="",CBC WINNIPEG [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/93998?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CBS BUFFALO (WIVB) [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65863?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CHCH(English).ca" group-title="",CHCH [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3275?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CHCH(English).ca" group-title="",CHCH HD [86]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71543.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CHCH HD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17386?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CHRGD [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65862?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CITY TV MONTREAL HD [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/93933?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CITY TV TORONTO [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65853?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CMT(English).ca" group-title="",CMT [97][offline]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3271?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CMT CA [93]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/30010?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",CNBC CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/30016?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA Food Network [83][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/233796?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA Game Show Network HD [92][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/233859?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA Global BC [82][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/176340?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA Global Calgary [73]
+http://jjkdomain123.one:80/Charlie/Charlie/176342?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",CA Global Calgary News [70]
+http://jjkdomain123.one:80/Charlie/Charlie/176343?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA Global Edmonton [92][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/176344?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA Global Halifax HD [85][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/176328?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA Global Kingston HD [73]
+http://jjkdomain123.one:80/Charlie/Charlie/176327?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",CA Global Lethbridge News [73][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/176348?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA Global Maritimes [82]
+http://jjkdomain123.one:80/Charlie/Charlie/176349?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",CA Global Toronto News [92]
+http://jjkdomain123.one:80/Charlie/Charlie/176357?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA HGTV [85]
+http://jjkdomain123.one:80/Charlie/Charlie/233798?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA HISTORY [100]
+http://jjkdomain123.one:80/Charlie/Charlie/233799?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA LIFETIME [80][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/233802?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA MSNBC [75]
+http://jjkdomain123.one:80/Charlie/Charlie/234361?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA National Geographic [88][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/233775?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA OWN [100]
+http://jjkdomain123.one:80/Charlie/Charlie/233925?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA PARAMOUNT [100]
+http://jjkdomain123.one:80/Charlie/Charlie/233926?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA CBC CHARLOTTETOWN HD [79][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/2759705?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA CBC TORONTO [83]
+http://jjkdomain123.one:80/Charlie/Charlie/176365?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA CHCH [92][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/784583?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA CITY TV CALGARY [79][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/176370?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",CA CNBC [85][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/234372?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",CA CNN [92][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/234371?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",CA CNN International [83]
+http://jjkdomain123.one:80/Charlie/Charlie/234370?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA COOKING Channel [73][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/233789?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA CP24 [100]
+http://jjkdomain123.one:80/Charlie/Charlie/234369?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA CTV 2 Ottawa Ontario HD [73]
+http://jjkdomain123.one:80/Charlie/Charlie/176406?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA CTV 2 Ottawa Ontario SD [77][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/176432?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA CTV 2 Windsor Ontario SD [75]
+http://jjkdomain123.one:80/Charlie/Charlie/176453?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA CTV Calgary HD [73]
+http://jjkdomain123.one:80/Charlie/Charlie/176339?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Comedy",CA CTV Comedy Channel East [77][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/233872?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Comedy",CA CTV Comedy West [91][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/233908?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA CTV Edmonton Alberta HD [73][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/176418?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA CTV Halifax HD [100]
+http://jjkdomain123.one:80/Charlie/Charlie/176314?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA CTV Kitchener SD [73][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/176434?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA CTV LIFE [93][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/176378?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA CTV Moncton New Brunswick HD [91]
+http://jjkdomain123.one:80/Charlie/Charlie/176421?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",CA CTV NEWS [100]
+http://jjkdomain123.one:80/Charlie/Charlie/176379?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA CTV Ottawa Ontario HD [83][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/176405?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA CTV Regina HD [73]
+http://jjkdomain123.one:80/Charlie/Charlie/176310?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA CTV Regina Saskatchewan HD [75]
+http://jjkdomain123.one:80/Charlie/Charlie/176414?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA CTV Sci-Fi Channel [86][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/233869?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA CTV Toronto Ontario HD [86][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/176412?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA CTV2 ATLANTIC [91]
+http://jjkdomain123.one:80/Charlie/Charlie/176384?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA Crime & Investigation [92][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/233784?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA DIY [92][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/233780?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA Discovery Channel [91][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/233790?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA Discovery ID [71][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/233791?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA Discovery Science HD [100]
+http://jjkdomain123.one:80/Charlie/Charlie/233782?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA Discovery Velocity [82][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/233793?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CA Discovery Velocity HD [92][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/233781?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 443 (WHEN LIVE) [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66915?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 444 (WHEN LIVE) [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66916?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 445 (WHEN LIVE) [94]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/102522?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 446 (WHEN LIVE) [96]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/102523?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 447 (WHEN LIVE) [93]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/102524?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 448 (WHEN LIVE) [91]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/102525?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 449 (WHEN LIVE) [93]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/102526?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 450 (WHEN LIVE) [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66917?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 452 (WHEN LIVE) [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66918?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 453 (WHEN LIVE) [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66919?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 454 (WHEN LIVE) [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66922?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 455 (WHEN LIVE) [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66920?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 456 (WHEN LIVE) [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66921?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 457 (WHEN LIVE) [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66923?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 458 (WHEN LIVE) [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66924?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 459 (WHEN LIVE) [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66925?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 460 (WHEN LIVE) [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66926?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 461 (WHEN LIVE) [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66927?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 462 (WHEN LIVE) [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66928?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 463 (WHEN LIVE) [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/102527?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 464 (WHEN LIVE) [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66929?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 465 (WHEN LIVE) [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66930?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 466 (WHEN LIVE) [93]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/102528?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 467 (WHEN LIVE) [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/102529?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 468 (WHEN LIVE) [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/102530?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 469 (WHEN LIVE) [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/102531?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 470 (WHEN LIVE) [93]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/102835?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(DE) 1te/2te/3te",Sardari TV [99]
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Series+ CA-FR [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/28074?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Sikh Spiritual Centre Rexdale (720p) [96]
+https://cdn12.henico.net:8443/live/ssct/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Silver Screen Classics CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/28083?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SLICE(English).ca" group-title="",Slice HD [98][offline]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71572.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Slice HD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17366?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Sportsnet One HD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11523?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Sportsnet Ontario HD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11521?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Sportsnet Pacific HD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11524?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Sportsnet West HD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11525?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Sportsnet World HD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/11526?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Super Ecran 1 [87]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71599.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Super Ecran 1 CA-FR [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/24423?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SuperEcran2(src01).ca" group-title="",Super Ecran 2 [77][offline]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71600.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Super Ecran 2 CA-FR [92]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/24422?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Super Ecran 3 CA-FR [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/24421?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SuperEcran4(src01).ca" group-title="",Super Ecran 4 [97]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71606.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Super Ecran 4 CA-FR [92]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/24420?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TCM [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3217?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TELE QUEBEC [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/93960?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Teletoon(Pacific)(English).ca" group-title="",TELETOON [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3205?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TFO(TVOntario)(src01).ca" group-title="",TFO [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65830?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",THE SHOPPING CHANNEL [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/36348?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TLC [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3207?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TLC HD [100]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71575.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TLC HD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17370?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TMN 2 [99]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71609.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TMN 2 CA-FR [83]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/28073?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TRAVEL + ESCAPE SD [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/99177?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Treehouse(English).ca" group-title="",TREEHOUSE TV [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3203?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TSN 1 [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3202?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TSN 1 HD [99]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71576.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TSN 1 HD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/10921?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TSN24K(English).ca" group-title="",TSN 2 [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3201?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TSN 2 FHD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/10920?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TSN24K(English).ca" group-title="",TSN 2 HD [99][offline]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71578.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TSN 2 HD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/10919?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TSN 3 [78][offline]
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/78483?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TSN 3 [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/8802?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TSN 3 FHD [96][offline]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71579.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TSN 3 FHD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/10918?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TSN 3 HD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/10917?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TSN 4 [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3199?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TSN 4 FHD [99][offline]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71581.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TSN 4 FHD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/10916?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TSN 5 [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3198?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TSN 5 FHD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/10915?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TSN 5 HD [100]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71582.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TSN 5 HD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/10914?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",TSN Sport 1 [91]
+http://190.115.29.22:8080/carter/GUV1bMq2VK/3046?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",TSN Sport 2 [87]
+http://190.115.29.22:8080/carter/GUV1bMq2VK/3047?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",TSN Sport 3 [81]
+http://190.115.29.22:8080/carter/GUV1bMq2VK/3048?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",TSN Sport 4 [82]
+http://190.115.29.22:8080/carter/GUV1bMq2VK/3049?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",TSN Sport 5 [85]
+http://190.115.29.22:8080/carter/GUV1bMq2VK/3050?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TV 5 QUEBEC CANADA HD [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/93929?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TVOntario(CICA)(English).ca" group-title="",TV ONTARIO [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65828?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TVOntario(CICA)(English).ca" group-title="",TV ONTARIO (CICA) [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/93958?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TV5 Quebec [100]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71614.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TV5 Quebec CA-FR [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/28069?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TVA MONTREAL [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65826?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TVA Quebec HD CA-FR [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/24417?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",E! Entertainment HD [99]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71555.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",E! Entertainment HD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17380?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",EET TV [98]
+https://eu.streamjo.com/eetlive/eettv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",EMCI TV Montreal (Opt-2) [100]
+https://emci-td-hls.akamaized.net/hls/live/2007264/emcitdhls/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",EVENTS CHANNEL [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3258?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",EWTN Canada [100]
+https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",EWTN Canada [100]
+http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",FAMILY [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3257?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",FAMILY (EAST) [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65849?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",FAMILY JUNIOR [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3255?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",FIGHT NETWORK [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3254?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FoodNetwork(English).ca" group-title="",FOOD NETWORK [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3253?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",FOX HD [93]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71558.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",FOX NEWS [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3252?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FoxSportsRacing(English).ca" group-title="Sport",FOX SPORTS RACING [94]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65848?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",FOX West CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17387?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FX(English).ca" group-title="",FX [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/16201?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FX(English).ca" group-title="",FX FHD [85][offline]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71559.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FXX(English).ca" group-title="",FXX [75][offline]
+http://jjkdomain123.one:80/Charlie/Charlie/421063?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FXX(English).ca" group-title="",FXX [98]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71561.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FXX(English).ca" group-title="",FXX [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/16200?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Family CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17389?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Fight Network HD [90]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71557.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Fight Network HD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17388?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Frissons TV CA-FR [92]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/24430?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="GameShowNetwork(English).ca" group-title="",GAME SHOW NETWORK HD [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/93915?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="GameTV(English).ca" group-title="",GAME TV [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3249?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="GameTV(English).ca" group-title="",GAME+ [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65847?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="GlobalBC(English).ca" group-title="",GLOBAL BC [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/99178?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="GlobalCalgary(English).ca" group-title="",GLOBAL CALGARY [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/99173?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="GlobalEdmonton(English).ca" group-title="",GLOBAL EDMONTON [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3248?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="GlobalMontreal(English).ca" group-title="",GLOBAL MONTREAL [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3247?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",GLOBAL PETERBOROUGH [94]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/100643?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="GlobalToronto(English).ca" group-title="",GLOBAL TORONTO [74]
+http://tutvxweb.net:8000/guillenomorenocristian/NDKFXJ5C5C/130440?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="GlobalToronto(English).ca" group-title="",GLOBAL TORONTO [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3246?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Global FHD [99]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71562.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Global FHD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17378?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",Global News Calgary (720p) [100]
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",Global News Edmonton (720p) [100]
+https://live.corusdigitaldev.com/groupb/live/215422c9-d1b9-4009-aaca-32e403f22b01/live.isml/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",Global News Lethbridge (720p) [100]
+https://live.corusdigitaldev.com/groupc/live/cea96246-9af2-4373-932f-cdd3f8db2bc0/live.isml/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",Global News Okanagan (720p) [100]
+https://live.corusdigitaldev.com/groupc/live/9fd97fb0-baa8-4191-bd2c-59aa5c9a1d48/live.isml/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",Global News Toronto (720p) [100]
+https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",GurSikh Sabha TV (Scarborough) [97]
+http://cdn12.henico.net:8080/live/gsctv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",H2 [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/91264?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",H2 CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17353?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="HBO1(English).ca" group-title="",HBO 1 [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3245?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="HBO1(English).ca" group-title="",HBO 1 [99]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71563.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",HBO 2 [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3244?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",HBO 2 HD [92][offline]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71564.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="HGTV(English).ca" group-title="",HGTV [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3243?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",HISTORY CHANNEL [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3242?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="HLN(English).ca" group-title="",HLN [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3241?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="HollywoodSuite2000s(English).ca" group-title="",HOLLYWOOD SUITE 2000s [94]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/102095?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="HollywoodSuite70s(English).ca" group-title="",HOLLYWOOD SUITE 70s [93]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/102096?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="HollywoodSuite80s(English).ca" group-title="",HOLLYWOOD SUITE 80s [90][offline]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/102097?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="HollywoodSuite90s(English).ca" group-title="",HOLLYWOOD SUITE 90s [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/102098?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",HPI RACING [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/91213?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Historia CA-FR [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17381?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="History(English).ca" group-title="",History HD [87]
+http://190.115.29.22:8080/carter/GUV1bMq2VK/2906?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ICIARTV(French).ca" group-title="",ICI ARTV HD [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/93951?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",ICI Montreal [100]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71591.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",ICI Montreal CA-FR [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/30019?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ICIRDI(French).ca" group-title="",ICI RDI [100]
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ICIRDI(French).ca" group-title="",ICI RDI [99]
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",ID [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/16235?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",IIPC TV [100]
+https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Investigation(French).ca" group-title="",INVESTIGATION HD [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/93928?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",JOY TV [94]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/99455?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="LCN(src01).ca" group-title="",LCN HD [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/93927?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",LEAFS TV [94]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/95306?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Lifetime(English).ca" group-title="",LIFETIME [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65843?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="LoveNature(English).ca" group-title="",LOVE NATURE [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66744?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Lifetime(English).ca" group-title="",Lifetime FHD [97][offline]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71566.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Lifetime FHD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17374?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Love Nature FHD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17367?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MakefulTV(English).ca" group-title="",MAKEFUL [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65841?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MLBNetwork(English).ca" group-title="Sport",MLB NETWORK [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65842?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MovieTime(English).ca" group-title="Movies",MOVIETIME [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/13231?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",MSNBC HD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17365?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MTV(English).ca" group-title="Music",MTV [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/13229?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MTV2(English).ca" group-title="Music",MTV 2 [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/13230?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",MUCH [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/93973?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="MuchMusic(English).ca" group-title="Music",MUCH MUSIC [97][offline]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/13228?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Max CA-FR [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/24429?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",CNBC CANADA [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65861?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CNN(English).ca" group-title="News",CNN [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/16216?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",CNN HD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/30017?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CookingChannel(English).ca" group-title="",COOKING CHANNEL [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/91273?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CottageLife(English).ca" group-title="",COTTAGE LIFE TV [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3265?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CP24 [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65854?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CP24 (720p) [100]
+http://encodercdn1.frontline.ca/vantrix/ltv/Bell_CP24H_AtopItci_2015_01_12_HD/hls_hd.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CP24 HD [99]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71546.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CP24 HD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17566?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CPAC ENGLISH [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65860?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CPAC FRENCH [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65859?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CPAC FRENCH HD [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/93923?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CPAC HD [96][offline]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71547.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CPAC HD [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/94004?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CPAC HD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17346?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Crave1(English-French).ca" group-title="",CRAVE 1 [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/16227?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Crave2(English-French).ca" group-title="",CRAVE 2 [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/16226?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Crave3(English).ca" group-title="",CRAVE 3 [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/16225?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Crave4(English).ca" group-title="",CRAVE 4 [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66727?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CRIME INVESTIGATION [93]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3276?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CTV [99]
+https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CTV [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3768?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CTV 2 [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65831?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CTV ATLANTIC [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/99508?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CTVCalgary(English).ca" group-title="",CTV CALGARY HD [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/93942?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Comedy",CTV COMEDY [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3268?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CTV DRAMA [94]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65858?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CTV EDMONTON [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/100630?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CTV KITCHENER [94]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/102484?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CTV MONTREAL HD [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/93997?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CTVNewsChannel(English).ca" group-title="News",CTV NEWS CHANNEL [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65857?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CTV NORTHERN ONTARIO SUDBURY [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/93365?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",CTV News (480p) [100]
+http://encodercdn1.frontline.ca/bespin/output/CTV_News/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",CTV News (720p) [100]
+http://encodercdn1.frontline.ca/bespin/output/CTV_News_720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",CTV News Channel HD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17395?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",CTV News Live Events 3 HD [99]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71550.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",CTV News Live Events 4 HD [99]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71553.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CTV OTTAWA HD [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/93926?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CTV SCI-FI [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65856?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CTVSudbury(English).ca" group-title="",CTV SUDBURY HD [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/93914?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CTVToronto(English).ca" group-title="",CTV TORONTO [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/32233?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CTV Toronto CFTO-DT (720p) [100]
+http://encodercdn1.frontline.ca/encoder183/output/CTV_Toronto_720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CTVVancouver(English).ca" group-title="",CTV VANCOUVER [96]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/91254?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CTVWinnipeg(English).ca" group-title="",CTV WINNIPEG [94]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101357?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CTV2 Barrie CKVR-DT (720p) [100]
+http://encodercdn1.frontline.ca/vantrix/ltv/Bell_TCTV2_AtopItci_2015_01_12_HD/hls_hd.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CTV2 LONDON [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101218?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CTV2 TORONTO [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/93968?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CanBangla TV (1080p) [Not 24/7] [88]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Canada One [100]
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Canal Savoir CA-FR [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/24434?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Canal Vie CA-FR [92]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/28085?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Casa CA-FR [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/24432?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CityTv(English).ca" group-title="",City FHD [96]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71544.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CityTV FHD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17404?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",CityTV Toronto CFTO-DT (720p) [100]
+http://encodercdn1.frontline.ca/bespin/output/City_Toronto_720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Cottage Life FHD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/30008?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",D Tour HD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/30006?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Daystar(English).ca" group-title="",DAYSTAR [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/93956?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DiscoveryChannel(English).ca" group-title="",DISCOVERY CHANNEL [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3263?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DiscoveryScience(English).ca" group-title="",DISCOVERY SCIENCE [94][offline]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3262?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DiscoveryVelocity(English).ca" group-title="",DISCOVERY VELOCITY [84][offline]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/99170?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",DISNEY [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/93917?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DisneyChannel(English).ca" group-title="Kids",DISNEY CHANNEL [97]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3261?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",DISNEY JR [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3260?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DisneyXD(English).ca" group-title="Kids",DISNEY XD [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65851?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",DISNEY, LA CHAINE [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/94003?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DIYNetwork(English).ca" group-title="",DIY NETWORK [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/13236?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DTOUR(English).ca" group-title="",DTOUR [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65852?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",DesheBideshe TV (720p) [100]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DiscoveryScience(English).ca" group-title="",Discovery Science [86][offline]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71551.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Discovery Science CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17394?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",Disney [96][offline]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71590.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",Disney Channel FHD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17392?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",Disney HD [99]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71552.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",Disney JR HD [98]
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71554.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",Disney JR HD CA [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/17391?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",Disney La Chaine CA-FR [100]
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/24431?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Doyel TV (720p) [Not 24/7] [100]
+http://ipm.oncast.me:1934/iplived/ip-doyeltv.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Doyel TV (720p) [Not 24/7] [100]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/doyeltv.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Dukh Nivaran (720p) [Not 24/7] [100]
+http://cdn12.henico.net:8080/live/dncal/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",E! [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/13235?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA BEIN SPORTS [100]
+http://ky-iptv.com:80/testtest/testtest/181827.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA EURO WORLD SPORT [100]
+http://ky-iptv.com:80/testtest/testtest/1394637.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA Fox Sports Racing [100]
+http://ky-iptv.com:80/testtest/testtest/181953.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA GINX eSports TV HD [100]
+http://ky-iptv.com:80/testtest/testtest/1030326.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA GOLF [100]
+http://ky-iptv.com:80/testtest/testtest/181967.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA NBA TV [100]
+http://ky-iptv.com:80/testtest/testtest/182026.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA NFL Network [100]
+http://ky-iptv.com:80/testtest/testtest/182030.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SPORTS NET WORLD HD [100]
+http://ky-iptv.com:80/testtest/testtest/228637.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SPORTSNET 360 [100]
+http://ky-iptv.com:80/testtest/testtest/182076.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SPORTSNET EAST [100]
+http://ky-iptv.com:80/testtest/testtest/182077.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SPORTSNET ONE [100]
+http://ky-iptv.com:80/testtest/testtest/182078.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SPORTSNET ONTARIO [100]
+http://ky-iptv.com:80/testtest/testtest/182079.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SPORTSNET_PPV [100]
+http://ky-iptv.com:80/testtest/testtest/182083.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 296 [100]
+http://ky-iptv.com:80/testtest/testtest/182093.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 297 [100]
+http://ky-iptv.com:80/testtest/testtest/182094.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 322 [100]
+http://ky-iptv.com:80/testtest/testtest/182095.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 323 [100]
+http://ky-iptv.com:80/testtest/testtest/182096.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 324 [100]
+http://ky-iptv.com:80/testtest/testtest/182097.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 368 [100]
+http://ky-iptv.com:80/testtest/testtest/182099.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 422 [100]
+http://ky-iptv.com:80/testtest/testtest/182100.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 431 [100]
+http://ky-iptv.com:80/testtest/testtest/182101.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 432 [100]
+http://ky-iptv.com:80/testtest/testtest/182104.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 433 [100]
+http://ky-iptv.com:80/testtest/testtest/182105.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 434 [100]
+http://ky-iptv.com:80/testtest/testtest/182106.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 435 [100]
+http://ky-iptv.com:80/testtest/testtest/182107.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 436 [100]
+http://ky-iptv.com:80/testtest/testtest/182108.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 437 [100]
+http://ky-iptv.com:80/testtest/testtest/182112.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 438 [100]
+http://ky-iptv.com:80/testtest/testtest/182114.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 439 [100]
+http://ky-iptv.com:80/testtest/testtest/182116.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 440 [100]
+http://ky-iptv.com:80/testtest/testtest/182118.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 441 [100]
+http://ky-iptv.com:80/testtest/testtest/182120.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 442 [100]
+http://ky-iptv.com:80/testtest/testtest/182122.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 443 [100]
+http://ky-iptv.com:80/testtest/testtest/182124.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 444 [100]
+http://ky-iptv.com:80/testtest/testtest/182129.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 450 [100]
+http://ky-iptv.com:80/testtest/testtest/182130.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 452 [100]
+http://ky-iptv.com:80/testtest/testtest/182132.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 453 [100]
+http://ky-iptv.com:80/testtest/testtest/182133.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 454 [100]
+http://ky-iptv.com:80/testtest/testtest/182134.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 455 [100]
+http://ky-iptv.com:80/testtest/testtest/182135.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 456 [100]
+http://ky-iptv.com:80/testtest/testtest/182136.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 457 [100]
+http://ky-iptv.com:80/testtest/testtest/182137.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 458 [100]
+http://ky-iptv.com:80/testtest/testtest/182138.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 459 [100]
+http://ky-iptv.com:80/testtest/testtest/182139.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 460 [100]
+http://ky-iptv.com:80/testtest/testtest/182140.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 461 [100]
+http://ky-iptv.com:80/testtest/testtest/182142.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 462 [100]
+http://ky-iptv.com:80/testtest/testtest/182145.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 464 [100]
+http://ky-iptv.com:80/testtest/testtest/182146.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 465 [100]
+http://ky-iptv.com:80/testtest/testtest/182147.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 472 [100]
+http://ky-iptv.com:80/testtest/testtest/182148.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 473 [100]
+http://ky-iptv.com:80/testtest/testtest/182149.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 474 [100]
+http://ky-iptv.com:80/testtest/testtest/182150.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 475 [100]
+http://ky-iptv.com:80/testtest/testtest/182151.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 476 [100]
+http://ky-iptv.com:80/testtest/testtest/182153.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 477 [100]
+http://ky-iptv.com:80/testtest/testtest/182155.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 478 [100]
+http://ky-iptv.com:80/testtest/testtest/182157.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 480 [100]
+http://ky-iptv.com:80/testtest/testtest/228678.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 481 [100]
+http://ky-iptv.com:80/testtest/testtest/182163.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 482 [100]
+http://ky-iptv.com:80/testtest/testtest/182165.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 483 [100]
+http://ky-iptv.com:80/testtest/testtest/182166.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SUPER SPORTS CH 484 [100]
+http://ky-iptv.com:80/testtest/testtest/182167.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SportsNet [100]
+http://ky-iptv.com:80/testtest/testtest/228639.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SportsNet East HD [100]
+http://ky-iptv.com:80/testtest/testtest/228641.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SportsNet NY [100]
+http://ky-iptv.com:80/testtest/testtest/228642.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SportsNet Pacific FHD [100]
+http://ky-iptv.com:80/testtest/testtest/228645.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SportsNet West FHD [100]
+http://ky-iptv.com:80/testtest/testtest/228647.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA SportsNet West HD [100]
+http://ky-iptv.com:80/testtest/testtest/228636.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA Sportsnet Event 1 HD [100]
+http://ky-iptv.com:80/testtest/testtest/1699315.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA Sportsnet Event 2 HD [100]
+http://ky-iptv.com:80/testtest/testtest/1699317.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA Sportsnet Event 3 HD [100]
+http://ky-iptv.com:80/testtest/testtest/1699319.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA Sportsnet Event 4 HD [100]
+http://ky-iptv.com:80/testtest/testtest/1699321.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA Sportsnet Event 5 HD [100]
+http://ky-iptv.com:80/testtest/testtest/1699323.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA Sportsnet Event 6 HD [100]
+http://ky-iptv.com:80/testtest/testtest/1699325.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA Sportsnet Event 7 HD [100]
+http://ky-iptv.com:80/testtest/testtest/1699327.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA Sportsnet Event 8 HD [100]
+http://ky-iptv.com:80/testtest/testtest/1699329.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA Sportsnet World HD [100]
+http://ky-iptv.com:80/testtest/testtest/182080.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA TVA Sports 2 HD [100]
+http://ky-iptv.com:80/testtest/testtest/182202.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA TVA Sports HD [100]
+http://ky-iptv.com:80/testtest/testtest/182198.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",CA beIN Sports HD [100]
+http://ky-iptv.com:80/testtest/testtest/228404.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SportsmanChannel(English).ca" group-title="Sport",SPORTSMAN Channel HD [100]
+http://ky-iptv.com:80/testtest/testtest/228638.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 267 [100]
+http://ky-iptv.com:80/testtest/testtest/228657.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 433 [100]
+http://ky-iptv.com:80/testtest/testtest/228658.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 434 [100]
+http://ky-iptv.com:80/testtest/testtest/228659.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 435 [100]
+http://ky-iptv.com:80/testtest/testtest/228660.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SUPER SPORTS CH 436 [100]
+http://ky-iptv.com:80/testtest/testtest/228661.ts?checkedby:iptvcat.com
