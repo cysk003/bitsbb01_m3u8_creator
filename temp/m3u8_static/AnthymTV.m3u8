@@ -8,14 +8,6 @@
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Cranium/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Cranium/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YhAVLYs.png" group-title="Special",Holiday
-https://bk7l2w4nlx53-hls-live.5centscdn.com/ROTATING/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-https://bk7l2w4nlx53-hls-live.5centscdn.com/ROTATING/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YhAVLYs.png" group-title="Special",Holiday Yule Log
-https://bk7l2w4nlx53-hls-live.5centscdn.com/TEST/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8 
-https://bk7l2w4nlx53-hls-live.5centscdn.com/TEST/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MkOnIBs.jpg" group-title="Cable Hits",Pawn
 https://bk7l2w4nlx53-hls-live.5centscdn.com/PawnStars/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 https://bk7l2w4nlx53-hls-live.5centscdn.com/PawnStars/961ac1c875f5884f31bdd177365ef1e3.sdp/PawnStars/OBS1/chunks.m3u8
@@ -96,6 +88,26 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/Fight/961ac1c875f5884f31bdd177365ef1
 https://bk7l2w4nlx53-hls-live.5centscdn.com/SportsCenter/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 https://bk7l2w4nlx53-hls-live.5centscdn.com/SportsCenter/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IWxnZgg.png" group-title="Mashup",Star (OFFLINE)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ox1SxY.jpg" group-title="Current Events",Politics
+https://bk7l2w4nlx53-hls-live.5centscdn.com/Politics/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+https://bk7l2w4nlx53-hls-live.5centscdn.com/Politics/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ox1SxY.jpg" group-title="Current Events",Hollywood
+https://bk7l2w4nlx53-hls-live.5centscdn.com/POP/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+https://bk7l2w4nlx53-hls-live.5centscdn.com/POP/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cDrQF55.jpg" group-title="Current Events",WallStreet
+https://bk7l2w4nlx53-hls-live.5centscdn.com/BUSINESS/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+https://bk7l2w4nlx53-hls-live.5centscdn.com/BUSINESS/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/IWxnZgg.png" group-title="Mashup",Star (OFFLINE)
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Star/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Star/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/YhAVLYs.png" group-title="Special",Holiday (OFFLINE)
+https://bk7l2w4nlx53-hls-live.5centscdn.com/ROTATING/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+https://bk7l2w4nlx53-hls-live.5centscdn.com/ROTATING/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/YhAVLYs.png" group-title="Special",Holiday Yule Log (OFFLINE)
+https://bk7l2w4nlx53-hls-live.5centscdn.com/TEST/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8 
+https://bk7l2w4nlx53-hls-live.5centscdn.com/TEST/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
