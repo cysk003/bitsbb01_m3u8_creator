@@ -1,0 +1,86 @@
+[
+    {
+        "id": "2280321",
+        "channel": "DIGI Sport 1 HD",
+        "link": "http://premiumiptv.tk:80/pq9WhnYz5j/ECooLFHXF1/593?checkedby:iptvcat.com",
+        "country": "romania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2280323",
+        "channel": "DIGI Sport 2 HD",
+        "link": "http://premiumiptv.tk:80/pq9WhnYz5j/ECooLFHXF1/37368?checkedby:iptvcat.com",
+        "country": "romania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2280324",
+        "channel": "DIGI Sport 3 HD",
+        "link": "http://premiumiptv.tk:80/pq9WhnYz5j/ECooLFHXF1/37369?checkedby:iptvcat.com",
+        "country": "romania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2280235",
+        "channel": "LOOKSPORT 3 FHD",
+        "link": "http://179770802190273656.nicebig.xyz:80/v21003/3009229/273656?checkedby:iptvcat.com",
+        "country": "romania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2280375",
+        "channel": "Look Sport 3 HD",
+        "link": "http://premiumiptv.tk:80/pq9WhnYz5j/ECooLFHXF1/73820?checkedby:iptvcat.com",
+        "country": "romania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2280444",
+        "channel": "Telekom Sport 1",
+        "link": "http://premiumiptv.tk:80/pq9WhnYz5j/ECooLFHXF1/37486?checkedby:iptvcat.com",
+        "country": "romania",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3179",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    }
+]
