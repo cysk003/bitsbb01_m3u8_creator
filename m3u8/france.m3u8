@@ -1,9 +1,0 @@
-#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:0 tvg-id="" group-title="Sport",Pluto TV Sports [99]
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf322-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0727f4fb-ea0b-4814-bb58-fdf3c4534220&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-id="" group-title="Sport",Sports 1 [100]
-http://mtda.bluefish1.xyz:43666/albdream1/albdream2/287?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="" group-title="Sport",Sports 2 [100]
-http://mtda.bluefish1.xyz:43666/albdream1/albdream2/282?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="" group-title="Sport",Sports 3 [100]
-http://mtda.bluefish1.xyz:43666/albdream1/albdream2/283?checkedby:iptvcat.com
