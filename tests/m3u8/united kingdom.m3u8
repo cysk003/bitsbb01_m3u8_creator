@@ -1,0 +1,275 @@
+#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:0 tvg-id="" group-title="Sport",UK BT Sports 2 [100]
+http://ky-iptv.com:80/testtest/testtest/174237.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",UK BT Sports 3 [100]
+http://ky-iptv.com:80/testtest/testtest/174239.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",UK BT Sports ESPN [100]
+http://ky-iptv.com:80/testtest/testtest/174241.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",UK BT Sports Extra 2 (live match only) [100]
+http://ky-iptv.com:80/testtest/testtest/174243.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",UK BT Sports Extra 3 (live match only) [100]
+http://ky-iptv.com:80/testtest/testtest/174244.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",UK BT Sports Extra 4 (live match only) [100]
+http://ky-iptv.com:80/testtest/testtest/174245.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",UK Box Nation HD [100]
+http://ky-iptv.com:80/testtest/testtest/189910.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK CBS DRAMA [100]
+http://ky-iptv.com:80/testtest/testtest/391272.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK CBS Justice [100]
+http://ky-iptv.com:80/testtest/testtest/189917.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK CBS Reality [100]
+http://ky-iptv.com:80/testtest/testtest/189918.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",UK CNBC News [100]
+http://ky-iptv.com:80/testtest/testtest/189923.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",UK CNN HD [100]
+http://ky-iptv.com:80/testtest/testtest/189924.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",UK Cartoonito [100]
+http://ky-iptv.com:80/testtest/testtest/189913.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(UK) Main",UK Channel 4 HD [100]
+http://ky-iptv.com:80/testtest/testtest/189920.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(UK) Main",UK Channel 5 [100]
+http://ky-iptv.com:80/testtest/testtest/189921.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK Clubland [100]
+http://ky-iptv.com:80/testtest/testtest/208457.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK Colors [100]
+http://ky-iptv.com:80/testtest/testtest/189925.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK Colors Rishtey [100]
+http://ky-iptv.com:80/testtest/testtest/189926.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Comedy",UK Comedy Central Extra [100]
+http://ky-iptv.com:80/testtest/testtest/189928.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Comedy",UK Comedy Central FHD [100]
+http://ky-iptv.com:80/testtest/testtest/189929.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK Crime & Investigation HD [100]
+http://ky-iptv.com:80/testtest/testtest/189930.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK DESTINATION AMERICA HD [100]
+http://ky-iptv.com:80/testtest/testtest/391193.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK DMAX HD [100]
+http://ky-iptv.com:80/testtest/testtest/189939.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK Dave HD [100]
+http://ky-iptv.com:80/testtest/testtest/189931.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK Discovery [100]
+http://ky-iptv.com:80/testtest/testtest/189932.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK Discovery History [100]
+http://ky-iptv.com:80/testtest/testtest/189933.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK Discovery Science [100]
+http://ky-iptv.com:80/testtest/testtest/189934.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK Discovery Turbo [100]
+http://ky-iptv.com:80/testtest/testtest/189936.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK Drama [100]
+http://ky-iptv.com:80/testtest/testtest/189940.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK E! [100]
+http://ky-iptv.com:80/testtest/testtest/189941.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK E4 [100]
+http://ky-iptv.com:80/testtest/testtest/391210.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK EDEN HD [100]
+http://ky-iptv.com:80/testtest/testtest/189944.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",UK EURONEWS HD [100]
+http://ky-iptv.com:80/testtest/testtest/391197.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",UK FREESPORTS [100]
+http://ky-iptv.com:80/testtest/testtest/391307.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Movies",UK Film 4 HD [100]
+http://ky-iptv.com:80/testtest/testtest/189945.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",UK Fox News HD [100]
+http://ky-iptv.com:80/testtest/testtest/189949.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",UK Free Sports [100]
+http://ky-iptv.com:80/testtest/testtest/174253.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK Gold [100]
+http://ky-iptv.com:80/testtest/testtest/189951.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK HORROR CHANNEL [100]
+http://ky-iptv.com:80/testtest/testtest/391308.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK History Channel FHD [100]
+http://ky-iptv.com:80/testtest/testtest/189954.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK Horse and Country [100]
+http://ky-iptv.com:80/testtest/testtest/189957.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(UK) Main",UK ITV 3 HD [100]
+http://ky-iptv.com:80/testtest/testtest/199506.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK ITVBE [100]
+http://ky-iptv.com:80/testtest/testtest/189962.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(UK) Main",UK Itv 4 [100]
+http://ky-iptv.com:80/testtest/testtest/189961.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Music",UK KISS SD [100]
+http://ky-iptv.com:80/testtest/testtest/391299.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",UK LFC TV [100]
+http://ky-iptv.com:80/testtest/testtest/189963.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Music",UK MTV Classic [100]
+http://ky-iptv.com:80/testtest/testtest/189970.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Music",UK MTV FHD [100]
+http://ky-iptv.com:80/testtest/testtest/189973.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Music",UK MTV Hits HD [100]
+http://ky-iptv.com:80/testtest/testtest/189974.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Music",UK MTV Music [100]
+http://ky-iptv.com:80/testtest/testtest/189975.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",UK NICK TOONS [100]
+http://ky-iptv.com:80/testtest/testtest/189983.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK Nat Geo [100]
+http://ky-iptv.com:80/testtest/testtest/189979.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",UK Nick Junior HD [100]
+http://ky-iptv.com:80/testtest/testtest/189981.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",UK Nick Junior Too [100]
+http://ky-iptv.com:80/testtest/testtest/189982.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Music",UK POP MAX SD [100]
+http://ky-iptv.com:80/testtest/testtest/391248.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK Paramount [100]
+http://ky-iptv.com:80/testtest/testtest/189873.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK QUEST +1 [100]
+http://ky-iptv.com:80/testtest/testtest/189987.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK Quest Red HD [100]
+http://ky-iptv.com:80/testtest/testtest/189988.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",UK RT NEWS HD [100]
+http://ky-iptv.com:80/testtest/testtest/391198.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",UK RTE News Now [100]
+http://ky-iptv.com:80/testtest/testtest/189995.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK S4C [100]
+http://ky-iptv.com:80/testtest/testtest/189997.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK SKY One [100]
+http://ky-iptv.com:80/testtest/testtest/189999.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK STV HD [100]
+http://ky-iptv.com:80/testtest/testtest/190011.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Movies",UK Sky Cinema Action & Adventure [100]
+http://ky-iptv.com:80/testtest/testtest/228291.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Comedy;Movies",UK Sky Cinema Comedy [100]
+http://ky-iptv.com:80/testtest/testtest/228290.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Movies",UK Sky Cinema Greats [100]
+http://ky-iptv.com:80/testtest/testtest/228287.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Movies",UK Sky Cinema Premiere [100]
+http://ky-iptv.com:80/testtest/testtest/228272.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Movies",UK Sky Cinema Thriller [100]
+http://ky-iptv.com:80/testtest/testtest/228284.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",UK Sky News [100]
+http://ky-iptv.com:80/testtest/testtest/190003.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",UK Sky Sports Action [100]
+http://ky-iptv.com:80/testtest/testtest/174254.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",UK Sky Sports Arena [100]
+http://ky-iptv.com:80/testtest/testtest/174256.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",UK Sky Sports F1 [100]
+http://ky-iptv.com:80/testtest/testtest/174259.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",UK Sky Sports Football [100]
+http://ky-iptv.com:80/testtest/testtest/174261.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",UK Sky Sports Main Events [100]
+http://ky-iptv.com:80/testtest/testtest/174265.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",UK Sky Sports Racing [100]
+http://ky-iptv.com:80/testtest/testtest/189989.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="RTE2.uk" group-title="",RTE 2 [100]
+http://ky-iptv.com:80/testtest/testtest/189992.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="RTEOne(src02).uk" group-title="",RTE One [100]
+http://ky-iptv.com:80/testtest/testtest/189996.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="RTETwo(src02).uk" group-title="",RTE TWO FHD [100]
+http://ky-iptv.com:80/testtest/testtest/391161.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",IRE RTE NEWS FHD [100]
+http://ky-iptv.com:80/testtest/testtest/391158.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Music",MTV 80s [100]
+http://ky-iptv.com:80/testtest/testtest/391284.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Music",POP Channel [100]
+http://ky-iptv.com:80/testtest/testtest/189986.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK Star Bharat [100]
+http://ky-iptv.com:80/testtest/testtest/190008.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK Star Gold [100]
+http://ky-iptv.com:80/testtest/testtest/190009.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Movies",UK TCM Movies+1 [100]
+http://ky-iptv.com:80/testtest/testtest/391264.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK TG4 [100]
+http://ky-iptv.com:80/testtest/testtest/190015.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK TLC [100]
+http://ky-iptv.com:80/testtest/testtest/190017.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK Talking Pictures HD [100]
+http://ky-iptv.com:80/testtest/testtest/190013.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK Travel Channel [100]
+http://ky-iptv.com:80/testtest/testtest/190018.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK Watch [100]
+http://ky-iptv.com:80/testtest/testtest/190027.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK Yesterday HD [100]
+http://ky-iptv.com:80/testtest/testtest/190028.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Movies",UK Zee Cinema [100]
+http://ky-iptv.com:80/testtest/testtest/175781.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK Zing [100]
+http://ky-iptv.com:80/testtest/testtest/190030.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK baby tv [100]
+http://ky-iptv.com:80/testtest/testtest/189889.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="VirginMediaOne.uk" group-title="",VIRGIN MEDIA ONE SD [100]
+http://ky-iptv.com:80/testtest/testtest/391164.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Music",UK 4Music [100]
+http://ky-iptv.com:80/testtest/testtest/189871.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK 5 Star [100]
+http://ky-iptv.com:80/testtest/testtest/189874.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK 5 USA [100]
+http://ky-iptv.com:80/testtest/testtest/391253.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",UK ABP News [100]
+http://ky-iptv.com:80/testtest/testtest/189878.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",UK AL JAZEERA HD [100]
+http://ky-iptv.com:80/testtest/testtest/189879.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK AMC [100]
+http://ky-iptv.com:80/testtest/testtest/391263.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK Aaj Tak [100]
+http://ky-iptv.com:80/testtest/testtest/189876.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK B4U PLUS [100]
+http://ky-iptv.com:80/testtest/testtest/189888.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(UK) Main;News",UK BBC 1 [100]
+http://ky-iptv.com:80/testtest/testtest/189890.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(UK) Main;News",UK BBC 2 [100]
+http://ky-iptv.com:80/testtest/testtest/189891.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(UK) Main;News",UK BBC 4 [100]
+http://ky-iptv.com:80/testtest/testtest/189892.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(UK) Main;Kids;News",UK BBC CBeebies [100]
+http://ky-iptv.com:80/testtest/testtest/189915.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(UK) Main;News",UK BBC News HD [100]
+http://ky-iptv.com:80/testtest/testtest/189894.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(UK) Main;News",UK BBC Parliament [100]
+http://ky-iptv.com:80/testtest/testtest/189898.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(UK) Main;News",UK BBC Two Northern Ireland [100]
+http://ky-iptv.com:80/testtest/testtest/189900.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(UK) Main;News",UK BBC World News [100]
+http://ky-iptv.com:80/testtest/testtest/189903.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK BET [100]
+http://ky-iptv.com:80/testtest/testtest/189904.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",UK BLOOMBERG HD [100]
+http://ky-iptv.com:80/testtest/testtest/189906.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UK BOOMERANG TV SD [100]
+http://ky-iptv.com:80/testtest/testtest/391241.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",UK BT Sports 1 FHD [100]
+http://ky-iptv.com:80/testtest/testtest/174235.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",UK Sky Sports Cricket [100]
+http://ky-iptv.com:80/testtest/testtest/174257.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",UK Sky Sports MIX [100]
+http://ky-iptv.com:80/testtest/testtest/174267.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",UK Sky Sports NFL FHD [100]
+http://ky-iptv.com:80/testtest/testtest/1400413.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News;Sport",UK Sky Sports News HD [100]
+http://ky-iptv.com:80/testtest/testtest/174269.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",UK SkySports F1 [100]
+http://ky-iptv.com:80/testtest/testtest/1196396.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",UK Sporty Stuff FHD [100]
+http://ky-iptv.com:80/testtest/testtest/1400414.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Astro SuperSport 1 HD [100]
+http://ky-iptv.com:80/testtest/testtest/1391035.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Astro SuperSport 2 HD [100]
+http://ky-iptv.com:80/testtest/testtest/1391036.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Astro SuperSport 3 HD [100]
+http://ky-iptv.com:80/testtest/testtest/1391037.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Astro SuperSport 4 HD [100]
+http://ky-iptv.com:80/testtest/testtest/1391038.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",BT SPORT 1 FHD -UK [100]
+http://1581.f5.si:8000/rtovar/XMYIKWG2TB/134130?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",BT SPORT 1 HD - UK [100]
+http://1581.f5.si:8000/rtovar/XMYIKWG2TB/134133?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",BT SPORT 2 - UK [100]
+http://1581.f5.si:8000/rtovar/XMYIKWG2TB/134131?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",BT SPORT 3 FHD - UK [100]
+http://1581.f5.si:8000/rtovar/XMYIKWG2TB/134132?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",IR Eir SPORTS 1 FHD [100]
+http://ky-iptv.com:80/testtest/testtest/391447.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsBoxOffice(src02).uk" group-title="Sport",SKY SPORTS BOX OFFICE [100]
+http://ky-iptv.com:80/testtest/testtest/1688561.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",UK BT SPORTS EXTRA 5 HD [100]
+http://ky-iptv.com:80/testtest/testtest/1400409.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",UK BT SPORTS EXTRA 6 HD [100]
+http://ky-iptv.com:80/testtest/testtest/1400410.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",UK BT Sports ESPN 1 HD [100]
+http://ky-iptv.com:80/testtest/testtest/515737.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",UK BT Sports Extra 1 (live match only) [100]
+http://ky-iptv.com:80/testtest/testtest/174242.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",UK PREMIER SPORTS 2 [100]
+http://ky-iptv.com:80/testtest/testtest/391420.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",UK Premier Sports 1 FHD [100]
+http://ky-iptv.com:80/testtest/testtest/229003.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",UK SKY SPORTS GOLF HD [100]
+http://ky-iptv.com:80/testtest/testtest/391434.ts?checkedby:iptvcat.com
