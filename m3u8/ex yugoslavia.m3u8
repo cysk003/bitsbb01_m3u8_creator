@@ -1,0 +1,49 @@
+#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:0 tvg-id="" group-title="Sport",Arena Sport 5 [91][offline]
+http://103.194.169.171:8282/SR:ARENA_SPORT_5/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(DE) 1te/2te/3te;Sport",Arena Sport 5 HR (HD) [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/103?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Sport TV 1 Slovenia HD [93]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/787?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ARENA SPORT 4 SR (HD) [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/102?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ARENA SPORT 4 SRB [76][offline]
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR--58ujVCTBO6VN9FogbCKc?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ARENA SPORT 5 SR (HD) [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/3594?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Arena Sport 1 [88][offline]
+http://103.194.169.171:8282/SR:_Arena_Sport_1_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(DE) 1te/2te/3te;Sport",Arena Sport 1 HR [71][offline]
+http://balkanshark.com:25461/speedhdhd/acjQyHovsC/296?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(DE) 1te/2te/3te;Sport",Arena Sport 1 HR (HD) [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/862?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(DE) 1te/2te/3te;Sport",Arena Sport 1 HR HD [71][offline]
+http://balkanshark.com:25461/speedhdhd/acjQyHovsC/297?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Arena Sport 2 [86][offline]
+http://103.194.169.171:8282/SR:_Arena_Sport_2_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(DE) 1te/2te/3te;Sport",Arena Sport 2 HR [71][offline]
+http://balkanshark.com:25461/speedhdhd/acjQyHovsC/298?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(DE) 1te/2te/3te;Sport",Arena Sport 2 HR (HD) [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/863?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(DE) 1te/2te/3te;Sport",Arena Sport 2 HR HD [71][offline]
+http://balkanshark.com:25461/speedhdhd/acjQyHovsC/299?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Arena Sport 3 [91][offline]
+http://103.194.169.171:8282/SR:_Arena_Sport_3_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(DE) 1te/2te/3te;Sport",Arena Sport 3 HR [71][offline]
+http://balkanshark.com:25461/speedhdhd/acjQyHovsC/300?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(DE) 1te/2te/3te;Sport",Arena Sport 3 HR (HD) [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/864?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(DE) 1te/2te/3te;Sport",Arena Sport 3 HR HD [71][offline]
+http://balkanshark.com:25461/speedhdhd/acjQyHovsC/301?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Arena Sport 4 [88][offline]
+http://103.194.169.171:8282/SR:_Arena_Sport_4_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="(DE) 1te/2te/3te;Sport",Arena Sport 4 HR (HD) [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/101?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Sport TV 2 Slovenia HD [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/788?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Sportska TV [100]
+http://mtda.bluefish1.xyz:43666/albdream1/albdream2/353?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Матч! (Резерв2) [100]
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/bw2000000/variant.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",НТВ+ Спорт [99]
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8?checkedby:iptvcat.com

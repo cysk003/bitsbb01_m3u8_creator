@@ -33,6 +33,7 @@
 ./m3u8/VizioTV.m3u8
 ./m3u8/WatchYourTV.m3u8
 ./m3u8/YTtv.m3u8
+./m3u8/afghanistan.m3u8
 ./m3u8/africa.m3u8
 ./m3u8/albania.m3u8
 ./m3u8/allsprk.m3u8
@@ -64,6 +65,7 @@
 ./m3u8/ipgoTV.m3u8
 ./m3u8/iptvlist1.m3u8
 ./m3u8/iptvlist2.m3u8
+./m3u8/iran.m3u8
 ./m3u8/ireland.m3u8
 ./m3u8/israel.m3u8
 ./m3u8/italy.m3u8
