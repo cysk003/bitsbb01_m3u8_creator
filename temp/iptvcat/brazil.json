@@ -1,0 +1,114 @@
+[
+    {
+        "id": "2280228",
+        "channel": "ESPN BRASIL HD - BR",
+        "link": "http://1581.f5.si:8000/rtovar/XMYIKWG2TB/5122?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "4165",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2280230",
+        "channel": "ESPN EXTRA HD - BR",
+        "link": "http://1581.f5.si:8000/rtovar/XMYIKWG2TB/5123?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2280080",
+        "channel": "FOX SPORTS 2",
+        "link": "http://mymediasrv.xyz:8080/4jorgeribeironovo/jorgeribeiro/669?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2280253",
+        "channel": "FOX SPORTS 2 HD - BR",
+        "link": "http://1581.f5.si:8000/rtovar/XMYIKWG2TB/5130?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2280253",
+        "channel": "FOX SPORTS 2 HD - BR",
+        "link": "http://1581.f5.si:8000/rtovar/XMYIKWG2TB/5130?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2089",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2280228",
+        "channel": "ESPN BRASIL HD - BR",
+        "link": "http://1581.f5.si:8000/rtovar/XMYIKWG2TB/5122?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "4165",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2280230",
+        "channel": "ESPN EXTRA HD - BR",
+        "link": "http://1581.f5.si:8000/rtovar/XMYIKWG2TB/5123?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2280080",
+        "channel": "FOX SPORTS 2",
+        "link": "http://mymediasrv.xyz:8080/4jorgeribeironovo/jorgeribeiro/669?checkedby:iptvcat.com",
+        "country": "brazil",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    }
+]
