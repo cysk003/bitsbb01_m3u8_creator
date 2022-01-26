@@ -1,0 +1,31 @@
+#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:0 tvg-id="" group-title="Sport",ESPN 1 HD [100]
+http://hellenic.live:8080/Hlias/Hlias1/131436.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ESPN 3 FHD [100]
+http://hellenic.live:8080/Hlias/Hlias1/131439.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ESPN 4 HD [100]
+http://hellenic.live:8080/Hlias/Hlias1/131442.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Extreme Sports [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/26068?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Extreme Sports Channel [100]
+http://4iptv.xyz:8080/sofia/sofia/12636?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Fox Sport 1 [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/26097?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Sport1 Voetbal [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/26102?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ZIGGO SPORT Golf HD [100]
+http://4iptv.xyz:8080/sofia/sofia/12627?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ZIGGO SPORT Voetbal HD [100]
+http://4iptv.xyz:8080/sofia/sofia/12626?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Ziggo Sport Extra HD [100]
+http://4iptv.xyz:8080/sofia/sofia/12628?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Ziggo Sport Golf FHD [100]
+http://hellenic.live:8080/Hlias/Hlias1/131451.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Ziggo Sport Racing HD [100]
+http://4iptv.xyz:8080/sofia/sofia/12625?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Ziggo Sport Select HD [100]
+http://4iptv.xyz:8080/sofia/sofia/12624?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Ziggo Sport Select HD [100]
+http://hellenic.live:8080/Hlias/Hlias1/131448.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Ziggo Sport Voetbal FHD [100]
+http://hellenic.live:8080/Hlias/Hlias1/131445.ts?checkedby:iptvcat.com
