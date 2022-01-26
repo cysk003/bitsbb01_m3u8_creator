@@ -1,0 +1,391 @@
+#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:0 tvg-id="" group-title="",AW | Tele Aruba, Tele Aruba [98]
+http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Tele Aruba [99]
+http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Tele Aruba [99]
+http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist_w964107368_b896000_sleng.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Tele Aruba Channel 13 [99]
+https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/chunklist_w812279767_b1596000_sleng.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Tele Aruba Channel 13 [99]
+https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",A&E HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41215?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",A&E HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3189?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Axn SD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3192?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",BANDSPORT HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41209?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",AMC [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41216?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",AMC [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3190?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",AXN HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41211?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Animal Planet HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41214?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Animal Planet HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3191?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",Disney XD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41187?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",Disney Xd HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3212?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",E! HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41185?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ESPN   HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41182?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Canal Brasil HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3197?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Discovery H&H HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3204?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",Discovery Kids HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41190?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",Discovery Kids HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3205?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Discovery Science HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41189?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Discovery Science HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3206?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Discovery Theater HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3207?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Discovery Turbo HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41195?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Discovery Turbo HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3208?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Discovery World HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41194?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Discovery World HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3209?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",Disney Channel HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41193?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",Disney Channel HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3210?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",Disney Jr HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3211?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",Disney Junior [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41186?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",FX HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41172?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Food Network HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41178?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Fox HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41177?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Fox Life HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41176?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Fox Life HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3217?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Fox Premium 1 HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41175?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Fox Premium 1 HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3218?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Fox Premium 2 HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41174?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Fox SPorts HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3222?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Fox Sports 1 [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41170?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Fox Sports 2 HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41171?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Fox Sports 2 HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3221?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Fx SD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3223?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Globosat   HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41164?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Gloob HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41161?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",H2 HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41160?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",H2 HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3227?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",HBO 2 [100]
+http://4iptv.xyz:8080/sofia/sofia/55092?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ESPN Brasil HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41181?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ESPN HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41180?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Espn 2 HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3213?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Espn Brasil HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3214?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Espn Extra HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3215?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Espn HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3216?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",FISH TV [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41179?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",GNT HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41163?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",Globo News [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41162?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",Globo News HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3224?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Globo RJ HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41166?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Globo RJ HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3225?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Globo SP HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41165?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Globo SP HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3226?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",GLOOB HD [100]
+http://4iptv.xyz:8080/sofia/sofia/55098?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",GNT [100]
+http://4iptv.xyz:8080/sofia/sofia/55097?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",GNT HD [100]
+http://4iptv.xyz:8080/sofia/sofia/55096?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Globo SP HD [100]
+http://4iptv.xyz:8080/sofia/sofia/55100?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",HISTORY CHANNEL HD [100]
+http://4iptv.xyz:8080/sofia/sofia/55085?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Hbo 2 HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3228?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Hbo Family HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3229?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Hbo HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3230?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Hbo Plus HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3231?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Hbo Signature HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3232?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",History Channel HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41153?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",History HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3233?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",ID Discovery HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3234?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",LIFETIME HD [100]
+http://4iptv.xyz:8080/sofia/sofia/55082?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Lifetime HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41151?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Music",MTV [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41145?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Music",MTV [100]
+http://4iptv.xyz:8080/sofia/sofia/55074?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Music",MTV HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3239?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",MULTISHOW HD [100]
+http://4iptv.xyz:8080/sofia/sofia/55073?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Megapix [100]
+http://4iptv.xyz:8080/sofia/sofia/55076?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Megapix HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41146?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Megapix SD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3238?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Multishow HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41144?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Natgeo HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3240?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",Natgeo Kids HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3241?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Natgeo Wild HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3242?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",National Geographic HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41142?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",Nick HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3243?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",Nick Jr HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3244?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",Nickelodeon [100]
+http://4iptv.xyz:8080/sofia/sofia/55067?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",OFF HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41141?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",HBO 2 HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41159?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",HBO Family HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41158?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",HBO HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41157?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",HBO MUNDI HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3235?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",HBO Plus [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41154?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",HBO SIGNATURE HD [100]
+http://4iptv.xyz:8080/sofia/sofia/55086?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",HBO Signature HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41156?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",PREMIERE 3 HD [100]
+http://4iptv.xyz:8080/sofia/sofia/55061?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Paramount [100]
+http://4iptv.xyz:8080/sofia/sofia/55064?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Paramount HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41140?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Paramount HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3245?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Premiere 2 HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41138?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Premiere 2 HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3246?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Premiere 3 HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41137?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Premiere 4 HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41136?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Premiere 5 HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41135?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Premiere 6 HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3250?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Premiere Clubes HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41130?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Premiere Clubes HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3252?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",RECORD FHD [100]
+http://line.lemotv.cc:80/FREDYBARR879/325556453/219871.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",RECORD MG HD [100]
+http://line.lemotv.cc:80/FREDYBARR879/325556453/219872.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",RECORD NEWS FHD [100]
+http://line.lemotv.cc:80/FREDYBARR879/325556453/219873.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",RECORD NORDESTE HD [100]
+http://line.lemotv.cc:80/FREDYBARR879/325556453/219874.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",REDE TV HD [100]
+http://4iptv.xyz:8080/sofia/sofia/55054?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Record [100]
+http://4iptv.xyz:8080/sofia/sofia/55057?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Record HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3253?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",Record News HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41124?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Record SP HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41123?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Rede TV HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41129?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Rede TV HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3255?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",SBT [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41122?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",SBT [100]
+http://4iptv.xyz:8080/sofia/sofia/55052?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",SPACE HD [100]
+http://4iptv.xyz:8080/sofia/sofia/55049?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT TV [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41119?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORTV [100]
+http://line.lemotv.cc:80/FREDYBARR879/325556453/219894.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORTV 3 [100]
+http://line.lemotv.cc:80/FREDYBARR879/325556453/219892.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",SPace HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3258?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPorTV 2 HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3259?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPorTV 3 HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3260?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPorTV HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3261?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",STUDIO UNIVERSAL FHD [100]
+http://line.lemotv.cc:80/FREDYBARR879/325556453/219895.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",STUDIO UNIVERSAL HD [100]
+http://4iptv.xyz:8080/sofia/sofia/55045?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Sbt HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3256?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Sony Channel HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3257?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Space HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41118?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SporTV 2 [100]
+http://4iptv.xyz:8080/sofia/sofia/55048?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SporTV 3 HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41120?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Studio Universal HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41117?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Studio Universal HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3262?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",SyFy [100]
+http://4iptv.xyz:8080/sofia/sofia/55044?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",SyFy HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41116?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Syfy HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3263?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TBS FHD [100]
+http://line.lemotv.cc:80/FREDYBARR879/325556453/219897.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TELECINE CULT FHD [100]
+http://line.lemotv.cc:80/FREDYBARR879/325556453/219900.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TLC [100]
+http://4iptv.xyz:8080/sofia/sofia/55034?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TNT [100]
+http://4iptv.xyz:8080/sofia/sofia/55033?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TNT FHD [100]
+http://line.lemotv.cc:80/FREDYBARR879/325556453/219905.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TNT HD [100]
+http://4iptv.xyz:8080/sofia/sofia/55032?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TNT SERIES FHD [100]
+http://line.lemotv.cc:80/FREDYBARR879/325556453/219906.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TNT Series [100]
+http://4iptv.xyz:8080/sofia/sofia/55031?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TOONCAST HD [100]
+http://line.lemotv.cc:80/FREDYBARR879/325556453/219907.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Tbs HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3264?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Tcm HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3267?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Telecine Action FHD [100]
+http://line.lemotv.cc:80/FREDYBARR879/325556453/219899.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Telecine Action HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3268?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Telecine Cult HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3269?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Telecine Fun HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3270?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Telecine Pipoca [100]
+http://4iptv.xyz:8080/sofia/sofia/55038?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Telecine Pipoca FHD [100]
+http://line.lemotv.cc:80/FREDYBARR879/325556453/219902.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Telecine Pipoca HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3271?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Telecine Pipoca HD [100]
+http://4iptv.xyz:8080/sofia/sofia/55037?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Telecine Premium HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3272?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Telecine Touch [100]
+http://4iptv.xyz:8080/sofia/sofia/55035?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Telecine Touch HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3273?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Tlc HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3274?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Tnt HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3275?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Tnt Series HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3276?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UNIVERSAL CHANNEL FHD [100]
+http://line.lemotv.cc:80/FREDYBARR879/325556453/219909.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",UNIVERSAL CHANNEL HD [100]
+http://4iptv.xyz:8080/sofia/sofia/55029?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Universal HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3279?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",WOOHOO HD [100]
+http://4iptv.xyz:8080/sofia/sofia/55026?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Warner Channel HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3280?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TV Direct 13 [99]
+http://edge1.tvdirect13.com/live/smil:mystream.smil/playlist_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TV Direct 13 [99]
+https://edge1.tvdirect13.com/live/smil:mystream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",TeleCuraçao (720p) [100]
+http://ott.streann.com:8080/loadbalancer/services/public/channels/5ed71e232cdc24a3d08cd6de/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Baby TV [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41206?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Band HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3194?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",Band News [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41210?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="News",Band News HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3193?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Band SPorts HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3195?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Discovery Channel HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3202?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Discovery Civilization HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3203?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Kids",Cartoon Network HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3198?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Movies",Cinemax SD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3199?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Combate HD [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41201?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Combate HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3200?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Comedy",Comedy CEntral HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3201?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Comedy",Comedy Central [100]
+http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/41197?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Boomerang HD [100]
+http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/3196?checkedby:iptvcat.com
