@@ -1,0 +1,27 @@
+#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:0 tvg-id="" group-title="Sport",Digi Sport 1 [100]
+http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/26030?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Digi Sport 1 HD [100]
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33423?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Digi Sport 2 HD [100]
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33424?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Digi Sport 3 [100]
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33425?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Digi Sport 4 [100]
+http://exchangesat.com:8080/mC9JdsAF/Qb9jrvVZjcZUkHMY/26027?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Digi Sport 4 [100]
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33426?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Extreme Sport [100]
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/145782?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Look Sport 2 [100]
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/21090?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Look Sport HD [100]
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/175313?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Telekom sport 1 HD [100]
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33429?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Telekom sport 2 [100]
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33430?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Telekom sport 3 [100]
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33431?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Telekom sport 4 [100]
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/33432?checkedby:iptvcat.com
