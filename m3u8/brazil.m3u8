@@ -1,7 +1,0 @@
-#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:0 tvg-id="" group-title="Sport",ESPN Brasil [100]
-http://4iptv.xyz:8080/sofia/sofia/55119?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="" group-title="Sport",ESPN Brasil HD [100]
-http://4iptv.xyz:8080/sofia/sofia/55118?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="" group-title="Sport",Fox Sports 2 HD [100]
-http://4iptv.xyz:8080/sofia/sofia/55109?checkedby:iptvcat.com
