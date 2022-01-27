@@ -1,0 +1,786 @@
+[
+    {
+        "id": "2298368",
+        "channel": "NBC Sports Network FHD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31121?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298366",
+        "channel": "NBC Sports Network HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31212?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298334",
+        "channel": "NBC Sports Philadelphia HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/104270?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298371",
+        "channel": "NFL Channel HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31215?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298369",
+        "channel": "NFL Network HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31109?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298370",
+        "channel": "NFL Red Zone HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/105068?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8370",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298375",
+        "channel": "Sports Net One HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31200?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8378",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298377",
+        "channel": "Sports Net Ontario HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31207?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8378",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298380",
+        "channel": "Sports Net World HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31206?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298341",
+        "channel": "Bein Sports  FHD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31141?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298339",
+        "channel": "Bein Sports HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31160?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298343",
+        "channel": "CBS Sports Network HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31214?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13311",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298418",
+        "channel": "CBS Sports Network HD",
+        "link": "http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/698?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13311",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298350",
+        "channel": "ESPN 2 FHD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31137?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298349",
+        "channel": "ESPN 2 HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31220?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298351",
+        "channel": "ESPN Deportes",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31238?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298344",
+        "channel": "ESPN News HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31222?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298345",
+        "channel": "ESPN U HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31219?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298348",
+        "channel": "ESPN USA FHD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31136?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298347",
+        "channel": "ESPN USA HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31221?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298354",
+        "channel": "Fox Sports 1 FHD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31135?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298353",
+        "channel": "Fox Sports 1 HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31218?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298355",
+        "channel": "Fox Sports 2 HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31217?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298361",
+        "channel": "Golf FHD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31133?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13311",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298360",
+        "channel": "Golf HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31213?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13311",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298364",
+        "channel": "NBA HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31216?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298365",
+        "channel": "NBA HD (B)",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/58062?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298341",
+        "channel": "Bein Sports  FHD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31141?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298339",
+        "channel": "Bein Sports HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31160?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298343",
+        "channel": "CBS Sports Network HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31214?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13311",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298418",
+        "channel": "CBS Sports Network HD",
+        "link": "http://disfruta.net:80/josemtroitinotv/FTNGCR5WrG/698?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13311",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298350",
+        "channel": "ESPN 2 FHD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31137?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298349",
+        "channel": "ESPN 2 HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31220?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298351",
+        "channel": "ESPN Deportes",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31238?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298344",
+        "channel": "ESPN News HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31222?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298345",
+        "channel": "ESPN U HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31219?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298348",
+        "channel": "ESPN USA FHD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31136?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298347",
+        "channel": "ESPN USA HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31221?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298354",
+        "channel": "Fox Sports 1 FHD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31135?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298353",
+        "channel": "Fox Sports 1 HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31218?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298355",
+        "channel": "Fox Sports 2 HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31217?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298361",
+        "channel": "Golf FHD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31133?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13311",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298360",
+        "channel": "Golf HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31213?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13311",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298364",
+        "channel": "NBA HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31216?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "11126",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298365",
+        "channel": "NBA HD (B)",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/58062?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298368",
+        "channel": "NBC Sports Network FHD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31121?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298366",
+        "channel": "NBC Sports Network HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31212?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298334",
+        "channel": "NBC Sports Philadelphia HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/104270?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298371",
+        "channel": "NFL Channel HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31215?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298369",
+        "channel": "NFL Network HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31109?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298370",
+        "channel": "NFL Red Zone HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/105068?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8370",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298375",
+        "channel": "Sports Net One HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31200?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8378",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298377",
+        "channel": "Sports Net Ontario HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31207?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8378",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2298380",
+        "channel": "Sports Net World HD",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31206?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "hd",
+        "mbps": "3795",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2297938",
+        "channel": "USA SportsGrid",
+        "link": "http://line.lemotv.cc:80/FREDYBARR879/325556453/1243274.ts?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8370",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2298386",
+        "channel": "Univision Deportes",
+        "link": "http://012345x.com:999/ceHUtJRP05/mBkMjETr8J/31240?checkedby:iptvcat.com",
+        "country": "united states of america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-26T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13311",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    }
+]
