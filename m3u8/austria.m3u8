@@ -1,5 +1,0 @@
-#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:0 tvg-id="" group-title="(DE) 1te/2te/3te;Sport",ORF Sports HD [87]
-http://190.115.29.22:8080/carter/GUV1bMq2VK/19182?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="" group-title="(DE) 1te/2te/3te;Sport",Orf Sport + HD [100]
-http://mneplayer.etya-iptv.com:8080/ali56/ali5656/151264?checkedby:iptvcat.com
