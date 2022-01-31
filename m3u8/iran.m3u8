@@ -1,0 +1,7 @@
+#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:0 tvg-id="" group-title="",IRIB 3 Tv FOOTBALL EVENT FHD [100]
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/174005?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",IRIB Varzesh FOOTBALL EVENT FHD [100]
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/174007?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",Varzish Sport HD [100]
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/178481?checkedby:iptvcat.com
