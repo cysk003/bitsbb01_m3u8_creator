@@ -1,0 +1,5 @@
+#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT KLUB 3 HD [100]
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23615?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT KLUB 4 [86]
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23616?checkedby:iptvcat.com
