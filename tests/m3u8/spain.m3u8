@@ -1,0 +1,27 @@
+#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:0 tvg-id="" group-title="",M DEPORTES HD [100]
+http://mhiptv.com:8080/hamdi/hamdi2020/3305?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",M. DEPORTES 1 1080 [100]
+http://first.datalink.ovh:25461/Miafamili/YisLmb8vq2/1095?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",M. DEPORTES 1 HD [100]
+http://first.datalink.ovh:25461/Miafamili/YisLmb8vq2/586?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",M. DEPORTES 1080 [100]
+http://first.datalink.ovh:25461/Miafamili/YisLmb8vq2/32?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",M. DEPORTES 1080 6/8 Mgbps low Bitrate [100]
+http://first.datalink.ovh:25461/Miafamili/YisLmb8vq2/972?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",M. DEPORTES HD [100]
+http://first.datalink.ovh:25461/Miafamili/YisLmb8vq2/33?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",M. GOLF 1080 Low Bitrate 6/8 Mgbps [100]
+http://first.datalink.ovh:25461/Miafamili/YisLmb8vq2/975?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",M. GOLF HD [100]
+http://first.datalink.ovh:25461/Miafamili/YisLmb8vq2/44?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",M. Golf 1080 [100]
+http://first.datalink.ovh:25461/Miafamili/YisLmb8vq2/288?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",MOVISTAR_GOLF_HD [100]
+http://mhiptv.com:8080/hamdi/hamdi2020/4415?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SPORT 3 .cat [100]
+http://first.datalink.ovh:25461/Miafamili/YisLmb8vq2/82?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",C+GOLF [100]
+http://mhiptv.com:8080/hamdi/hamdi2020/3302?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="",Canal  DEPORTES 2 HD [100]
+http://gamingtuga.xyz:80/23UcaFThEf/DeRmXQd3m4/95269?checkedby:iptvcat.com
