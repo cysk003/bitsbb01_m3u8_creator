@@ -1,0 +1,61 @@
+#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:0 tvg-id="" group-title="Sport",BT ESPN SD [100]
+http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/119578?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="Sport",BT SPORT 1 SD [100]
+http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/119579?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="Sport",BT SPORT 2 SD [100]
+http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/119580?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="Sport",BT SPORT 3 SD [100]
+http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/119581?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",BT SPORTS 1 FHD [100]
+http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/20359?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",BT SPORTS 1 FHD 2 (50FPS) [100]
+http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/20360?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",BT SPORTS 2 FHD [100]
+http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/20365?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",BT SPORTS 2 FHD 2 (50FPS) [100]
+http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/20366?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BTSports3(src01).uk" group-title="Sport",BT SPORTS 3 FHD [100]
+http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/20370?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",BT SPORTS 3 FHD 2 (50FPS) [100]
+http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/20371?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",BT SPORTS ESPN FHD [100]
+http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/20379?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",BT SPORTS ESPN FHD 2 [100]
+http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/20380?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",BT SPORTS ESPN FHD 3 [100]
+http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/322582?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Eurosport1.uk" group-title="Sport",EUROSPORT 1 FHD [100]
+http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/20350?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Eurosport2.uk" group-title="Sport",EUROSPORT 2 FHD [100]
+http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/20353?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",PREMIER SPORTS 1 FHD [100]
+http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/104683?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",PREMIER SPORTS 1 SD [100]
+http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/119582?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="PremierSports2.uk" group-title="Sport",PREMIER SPORTS 2 FHD [100]
+http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/104684?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="PremierSports2.uk" group-title="Sport",PREMIER SPORTS 2 SD [100]
+http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/119583?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsArena.uk" group-title="Sport",S.K.Y SPORTS ARENA SD [100]
+http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/119573?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsCricket.uk" group-title="Sport",S.K.Y SPORTS CRICKET SD [100]
+http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/119571?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsF1.uk" group-title="Sport",S.K.Y SPORTS F1 SD [100]
+http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/119576?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsFootball.uk" group-title="Sport",S.K.Y SPORTS FOOTBALL SD [100]
+http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/119577?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsGolf.uk" group-title="Sport",S.K.Y SPORTS GOLF [100]
+http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/119570?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsMainEvent.uk" group-title="Sport",S.K.Y SPORTS MAIN EVENT SD [100]
+http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/119569?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",S.K.Y SPORTS MAIN EVENT UHD (50FPS) [100]
+http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/255102?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsMix.uk" group-title="Sport",S.K.Y SPORTS MIX SD [100]
+http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/119575?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="News;Sport",S.K.Y SPORTS NEWS SD [100]
+http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/119574?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",S.K.Y SPORTS NFL SD [100]
+http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/119568?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportsPremierLeague.uk" group-title="Sport",S.K.Y SPORTS PREMIER LEAGUE SD [100]
+http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/119572?checkedby:iptvcat.com
