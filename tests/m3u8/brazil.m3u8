@@ -1,0 +1,5 @@
+#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:0 tvg-id="" group-title="Sport",Band Sports [100]
+http://line.lemotv.cc:80/Matthew4564/7438844/219713.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ESPN EXTRA HD [100]
+http://line.lemotv.cc:80/Matthew4564/7438844/219746.ts?checkedby:iptvcat.com
