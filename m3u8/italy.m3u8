@@ -1,0 +1,15 @@
+#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:0 tvg-id="" group-title="Sport",RAI SPORT [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/94164?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SKY SPORT ARENA [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/94134?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SKY SPORT F1 [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/94132?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SKY SPORT FOOTBALL [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/94131?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SKY SPORT MOTOGP [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/94130?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SKY SPORT NBA [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/94129?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",SKY SPORT UNO [100]
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/94128?checkedby:iptvcat.com
