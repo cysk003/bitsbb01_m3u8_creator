@@ -42,6 +42,7 @@
 ./m3u8/australia.m3u8
 ./m3u8/austria.m3u8
 ./m3u8/azerbaijan.m3u8
+./m3u8/bahrain.m3u8
 ./m3u8/belgium.m3u8
 ./m3u8/brazil.m3u8
 ./m3u8/bulgaria.m3u8
@@ -53,6 +54,7 @@
 ./m3u8/dailymotion-US.m3u8
 ./m3u8/denmark.m3u8
 ./m3u8/ecuador.m3u8
+./m3u8/egypt.m3u8
 ./m3u8/europe.m3u8
 ./m3u8/ex yugoslavia.m3u8
 ./m3u8/france.m3u8
@@ -68,12 +70,16 @@
 ./m3u8/iptvlist1.m3u8
 ./m3u8/iptvlist2.m3u8
 ./m3u8/iran.m3u8
+./m3u8/iraq.m3u8
 ./m3u8/ireland.m3u8
 ./m3u8/israel.m3u8
 ./m3u8/italy.m3u8
 ./m3u8/japan.m3u8
+./m3u8/jordan.m3u8
 ./m3u8/klowdtv.m3u8
+./m3u8/kuwait.m3u8
 ./m3u8/latin america.m3u8
+./m3u8/libya.m3u8
 ./m3u8/malaysia.m3u8
 ./m3u8/mexico.m3u8
 ./m3u8/netherlands.m3u8
@@ -82,13 +88,16 @@
 ./m3u8/norway.m3u8
 ./m3u8/oceania.m3u8
 ./m3u8/oman.m3u8
+./m3u8/palestine.m3u8
 ./m3u8/pbs.m3u8
 ./m3u8/plex.m3u8
 ./m3u8/pluto.m3u8
 ./m3u8/poland.m3u8
 ./m3u8/portugal.m3u8
+./m3u8/qatar.m3u8
 ./m3u8/romania.m3u8
 ./m3u8/russian federation.m3u8
+./m3u8/saudi arabia.m3u8
 ./m3u8/scandinavia.m3u8
 ./m3u8/serbia.m3u8
 ./m3u8/singapore.m3u8
@@ -99,6 +108,7 @@
 ./m3u8/sudan.m3u8
 ./m3u8/sweden.m3u8
 ./m3u8/switzerland.m3u8
+./m3u8/syria.m3u8
 ./m3u8/tubi.m3u8
 ./m3u8/turkey.m3u8
 ./m3u8/turkmenistan.m3u8
@@ -109,3 +119,4 @@
 ./m3u8/united states of america.m3u8
 ./m3u8/vaughn.m3u8
 ./m3u8/veely.m3u8
+./m3u8/yemen.m3u8
