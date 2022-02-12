@@ -1,0 +1,9 @@
+#EXTM3U tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" url-tvg="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://github.com/bitsbb01/bitsbb01_m3u8creator/raw/main/epg/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:0 tvg-id="" group-title="Sport",Nile Sport [100]
+http://red.ipfox.org:8080/1234/12345678/33200?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ON TIME SPORT 1 [100]
+http://red.ipfox.org:8080/1234/12345678/33162?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ON TIME SPORT 2 [100]
+http://red.ipfox.org:8080/1234/12345678/33163?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" group-title="Sport",ON TIME SPORT 3 [100]
+http://red.ipfox.org:8080/1234/12345678/33164?checkedby:iptvcat.com
