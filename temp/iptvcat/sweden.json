@@ -1,0 +1,30 @@
+[
+    {
+        "id": "2349429",
+        "channel": "Viasat Sport Premium HD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/153084?checkedby:iptvcat.com",
+        "country": "sweden",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport"
+        ]
+    },
+    {
+        "id": "2349429",
+        "channel": "Viasat Sport Premium HD",
+        "link": "http://uniontvs.com:8080/Mohamed/123456/153084?checkedby:iptvcat.com",
+        "country": "sweden",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-11T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport"
+        ]
+    }
+]
